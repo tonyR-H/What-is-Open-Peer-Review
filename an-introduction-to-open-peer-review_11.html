@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="wpd_version" content="0.2">
+<meta name="wpd_baseurl" content="http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/">
+<meta name="wpd_url" content="http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/">
+<meta name="wpd_date" content="2015-09-19T09:18Z">
+ 
+  <meta name="dimensions" content="300x600">
+  <meta charset="UTF-8">
+  
+
+<link rel="stylesheet" type="text/css" href="an-introduction-to-open-peer-review_11.css" media="all">
+</head>
+<body class="ng-scope" ng-controller="CustomCntrl" ng-init="itemsLimit = 3">
+
+  <!-- Dynamic Styles -->
+  <div class="ng-binding" dynamic-style="" style="display: none;"></div>
+
+  <a class="layout background anim-fade" ng-click="exit()" ng-class="{hide: ! showLayout}" ng-mouseenter="autoCycleStop()">
+    
+    <!-- Header Segment -->
+    <section id="header-segment">
+      <section class="logo-panel">
+        <div class="logo-holder">
+          <div style="overflow: hidden;" class="logo ng-isolate-scope" image-fit="" loc="https://tpc.googlesyndication.com/pagead/imgad?id=CICAgIDQhbP8BRDPARgjMgjNMqyIgC2zBw" scaletype="fit" aligntype="left"><img src="imgad" style="position: inherit; left: 0px; top: 0px;" height="25" width="147"></div>
+        </div>
+      </section>
+    </section>
+
+    <!-- Items Segment -->
+    <section id="items-segment">
+      <!-- ngRepeat: product in products | limitTo:itemsLimit --><section class="item-panel ng-scope onActive" ng-repeat="product in products | limitTo:itemsLimit" ng-class="{onActive: isCurrentItemIndex($index)}" ng-mouseover="setCurrentItemIndex($index)" item-interaction="$index">
+
+        <!-- Image -->
+        <div style="overflow: hidden;" class="img-holder ng-isolate-scope" ng-class="{includesStars: product.rating >= 3}" image-fit="" loc="https://lh6.ggpht.com/l4CF74mfJEbayiIN7f4-8e7kZdiXzrbzmaxxxNKRFDI-9zmfdscHQf66O1sCDb2mjw=s250-c" scaletype="fill" aligntype="center"><img src="l4CF74mfJEbayiIN7f4-8e7kZdiXzrbzmaxxxNKRFDI-9zmfdscHQf66O1sCDb2mjw=s250-c" style="position: inherit; left: -16px; top: 0px;" height="172" width="172"></div>
+
+        <!-- Star Ratings -->
+        <ul class="stars-holder ng-hide" ng-show="product.rating >= 3">
+          <!-- ngRepeat: star in product.stars track by $index -->
+        </ul>
+
+        <div class="text-holder">
+          <!-- Details Text -->
+          
+          <div style="overflow: hidden;" class="sub-title ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Ghent
+          </div>
+          <div style="overflow: hidden;" class="name ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Hotel Onderbergen
+          </div>
+          <!-- Prices -->
+          <div class="price-holder">
+            <div style="overflow: hidden; white-space: nowrap; font-size: 11px; display: table-cell; vertical-align: bottom; height: 19px;" class="price-prefix ng-binding inline-wrapper" ng-show="product.price" text-fit="" minfontsize="7" multiline="false" truncate="false" valign="bottom">
+
+              From
+            </div>
+            <div style="overflow: hidden; white-space: nowrap;" class="price ng-binding" text-fit="" minfontsize="9" multiline="false" truncate="false">
+
+              €61.00
+            </div>
+          </div>
+        </div>
+
+      
+  
+        <!-- Cta -->
+        <div class="cta-holder">
+          <div style="overflow: hidden; white-space: nowrap; display: table-cell; vertical-align: middle; height: 22px;" class="cta ng-binding inline-wrapper" text-fit="" minfontsize="8" multiline="false" truncate="true" valign="middle">
+
+            Book now
+          </div>
+        </div>
+
+      </section><!-- end ngRepeat: product in products | limitTo:itemsLimit --><section class="item-panel ng-scope" ng-repeat="product in products | limitTo:itemsLimit" ng-class="{onActive: isCurrentItemIndex($index)}" ng-mouseover="setCurrentItemIndex($index)" item-interaction="$index">
+
+        <!-- Image -->
+        <div style="overflow: hidden;" class="img-holder ng-isolate-scope includesStars" ng-class="{includesStars: product.rating >= 3}" image-fit="" loc="https://lh4.ggpht.com/vnHglbwIyhDV5mH6dnQgjNqcubSFFXjSWgBsNzreVlHVXk4SH3TwoPQtYgk76sd-=s250-c" scaletype="fill" aligntype="center"><img src="vnHglbwIyhDV5mH6dnQgjNqcubSFFXjSWgBsNzreVlHVXk4SH3TwoPQtYgk76sd-=s250-c" style="position: inherit; left: -11px; top: 0px;" height="162" width="162"></div>
+
+        <!-- Star Ratings -->
+        <ul class="stars-holder" ng-show="product.rating >= 3">
+          <!-- ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_empty.png" ng-src="img/star_rating_empty.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index -->
+        </ul>
+
+        <div class="text-holder">
+          <!-- Details Text -->
+          
+          <div style="overflow: hidden;" class="sub-title ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Ghent
+          </div>
+          <div style="overflow: hidden;" class="name ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Hotel De Flandre
+          </div>
+          <!-- Prices -->
+          <div class="price-holder">
+            <div style="overflow: hidden; white-space: nowrap; font-size: 11px; display: table-cell; vertical-align: bottom; height: 19px;" class="price-prefix ng-binding inline-wrapper" ng-show="product.price" text-fit="" minfontsize="7" multiline="false" truncate="false" valign="bottom">
+
+              From
+            </div>
+            <div style="overflow: hidden; white-space: nowrap;" class="price ng-binding" text-fit="" minfontsize="9" multiline="false" truncate="false">
+
+              €81.65
+            </div>
+          </div>
+        </div>
+
+      
+  
+        <!-- Cta -->
+        <div class="cta-holder">
+          <div style="overflow: hidden; white-space: nowrap; display: table-cell; vertical-align: middle; height: 22px;" class="cta ng-binding inline-wrapper" text-fit="" minfontsize="8" multiline="false" truncate="true" valign="middle">
+
+            Book now
+          </div>
+        </div>
+
+      </section><!-- end ngRepeat: product in products | limitTo:itemsLimit --><section class="item-panel ng-scope" ng-repeat="product in products | limitTo:itemsLimit" ng-class="{onActive: isCurrentItemIndex($index)}" ng-mouseover="setCurrentItemIndex($index)" item-interaction="$index">
+
+        <!-- Image -->
+        <div style="overflow: hidden;" class="img-holder ng-isolate-scope includesStars" ng-class="{includesStars: product.rating >= 3}" image-fit="" loc="https://lh3.ggpht.com/2qP9BuzqkncZgvYD-WCIgx767oar5xJYdtb2dp2OK2HwkK1YM575-Q7QdPBt42wqWw=s250-c" scaletype="fill" aligntype="center"><img src="2qP9BuzqkncZgvYD-WCIgx767oar5xJYdtb2dp2OK2HwkK1YM575-Q7QdPBt42wqWw=s250-c" style="position: inherit; left: -11px; top: 0px;" height="162" width="162"></div>
+
+        <!-- Star Ratings -->
+        <ul class="stars-holder" ng-show="product.rating >= 3">
+          <!-- ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_full.png" ng-src="img/star_rating_full.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index --><li class="star ng-scope" ng-repeat="star in product.stars track by $index">
+            <img src="star_rating_empty.png" ng-src="img/star_rating_empty.png">
+          </li><!-- end ngRepeat: star in product.stars track by $index -->
+        </ul>
+
+        <div class="text-holder">
+          <!-- Details Text -->
+          
+          <div style="overflow: hidden;" class="sub-title ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Ghent
+          </div>
+          <div style="overflow: hidden;" class="name ng-binding" text-fit="" minfontsize="9" multiline="true" truncate="true">
+
+            Ghent River Hotel
+          </div>
+          <!-- Prices -->
+          <div class="price-holder">
+            <div style="overflow: hidden; white-space: nowrap; font-size: 11px; display: table-cell; vertical-align: bottom; height: 19px;" class="price-prefix ng-binding inline-wrapper" ng-show="product.price" text-fit="" minfontsize="7" multiline="false" truncate="false" valign="bottom">
+
+              From
+            </div>
+            <div style="overflow: hidden; white-space: nowrap;" class="price ng-binding" text-fit="" minfontsize="9" multiline="false" truncate="false">
+
+              €90.15
+            </div>
+          </div>
+        </div>
+
+      
+  
+        <!-- Cta -->
+        <div class="cta-holder">
+          <div style="overflow: hidden; white-space: nowrap; display: table-cell; vertical-align: middle; height: 22px;" class="cta ng-binding inline-wrapper" text-fit="" minfontsize="8" multiline="false" truncate="true" valign="middle">
+
+            Book now
+          </div>
+        </div>
+
+      </section><!-- end ngRepeat: product in products | limitTo:itemsLimit -->
+    </section>
+  </a>
+  <!-- End Layout -->
+
+<!-- Libraries -->
+<script src="angular.min.js"></script>
+<script src="angular-touch.min.js"></script>
+<script src="angular-animate.min.js"></script>
+
+<!-- Init -->
+<script>
+
+  var layout = angular.module('layout', ['ngAnimate']);
+</script>
+
+<!-- Custom -->
+<script src="Booking_TripleItem_1a.min.js"></script>
+
+<!-- Data Loader -->
+<script src="addata.js"></script>
+
+
+<iframe src="an-introduction-to-open-peer-review_12.html" srcdoc="<!doctype html><html><head><script>window.addEventListener(&quot;message&quot;,function(e){e.source.parent.postMessage(e.data,&quot;http://tpc.googlesyndication.com&quot;);},false);</script></head><body></body></html>" style="display: none;"></iframe></body>
+</html>
