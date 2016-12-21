@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>404 Page Not Found</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0' name='viewport'>
+    <link href="/assets/application.css" media="all" rel="stylesheet" />
+
+    <script src="//use.typekit.net/ruw4kpq.js"></script>
+    <script>
+      try{Typekit.load();}catch(e){}
+    </script>
+
+  </head>
+  <body id='pages'>
+    <div class='wrap'>
+      <header id='site_header' style="height: 100px; padding-top: 20px;">
+        <nav id='site_nav'>
+          <a href="/" id="logo"><img alt="Logo" src="/assets/logo.png" /></a>
+        </nav>
+      </header>
+      <section id='hero'>
+        <img alt="Hero" src="/assets/hero.jpg" />
+        <span class='line left'></span>
+        <div class='wrap'>
+          <div id='hero-content'>
+            <div>
+              <div class='tagline' style="font-size:32px;">The page you are trying to reach does not exist. Please try again, or contact webmaster@thewinnower.com</div>
+              <nav id='home_actions'>
+                <ul>
+                  <li class='green button no-margin'>
+                    <i class='ss-symbolicons-block ss-binoculars'></i>
+                    <a href="/topics">Browse Topics</a>
+                  </li>
+                  <li class='green button no-margin'>
+                    <i class='ss-symbolicons-block ss-addfile'></i>
+                    <a href="/submit" rel="nofollow">Submit a Paper</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <span class='line right'></span>
+      </section>
+
+    </div>
+  </body>
+</html>
