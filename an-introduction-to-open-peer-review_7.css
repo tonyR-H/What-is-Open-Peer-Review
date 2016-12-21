@@ -1,0 +1,7 @@
+
+/* ::::: null ::::: */
+
+.ac { display: block; position: absolute; overflow: hidden; width: 19px; height: 15px; z-index: 9; bottom: 0px; left: 0px; background: transparent url('ac-bottomleft-sprite.png') repeat scroll 0% 0%; }
+.ac:hover { width: 97px; background-position: -19px 0px; }
+.hide { display: none ! important; }
+#ad { position: relative; overflow: hidden; width: 728px; height: 90px; display: none; }
