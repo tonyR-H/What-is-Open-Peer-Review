@@ -1,116 +1,129 @@
-    lock Login
-    Remember me?
-    Forgot your password?
+    HOME
+    PORTAL
+    NEWSLETTER
 
-    Not a member? Start Here
-    search Search
-    search
-    Search In:
-        all topics
-        Medicine
-        Engineering
-        Biological Sciences
-        Chemistry
-        Computer Sciences
-        Earth Sciences
-        Mathematics
-        Physics
-        Science and Society
-        Social Sciences
-        Humanities
-        reddit
+    RSS Feed
+    Facebook
+    Twitter
+    Flickr
+    LinkedIn
 
-    Topics
-    Authors
-    Grain & Chaff
+OpenAIRE blog
 
-Logo
+    About OpenAIRE
 
-    Submit
-    About
-    Blog
+Open Peer Review in OpenAIRE
 
-Whatâs wrong with peer review? A Roundup
-May 06, 2014
-Peer review 300x192
-There is considerable interest currently in news surrounding Open Access and peer review. Below is a collection of recent articles discussing peer review as it stands today and possibilities of how peer review may work in the near future.  Weâll be launching our solution here at The Winnower in early 2014!
+    Tony Ross-Hellauer
+    2015-03-13
+    scholarly communication
 
-1. Whoâs Afraid of Peer Review
+    50
+    Tweet
+    35
+    Share
+    0
+    Share
+    0
+    Pin
+    0
+    Mail
+    0
+    Share
 
-A spoof science paper was accepted to over 150 Open Access journals. This is the original story of how that was done and why.
+OpenAIRE supports OA infrastructure in Europe and beyond, to help realize Open Science for the benefit of society, innovation and industry. OpenAIRE2020, the current project phase, is investigating a full complement of scholarly communication building blocks, including research data management support, gold open access, usage statistics, Linked Open Data, a publication broker and global interoperability. As part of this effort, GÃ¶ttingen State and University Library , in partnership with COUPERIN in France and the Consiglio Nazionale Delle Ricerche (CNR) in Italy, will be conducting research into new peer review approaches.
+What is open peer review?
+Credit: AJ Cann, CC BY-SA 2.0
 
-2. I confess, I wrote the Arsenic DNA paper to expose flaws in peer-review at subscription based journals
+Credit: AJ Cann, CC BY-SA 2.0
 
-A biologist at UC Berkeley describes how a severely flawed paper was published in Science, the same journal that attempted to uncover flaws in Open Access publishing. These two articles taken together speak to the need for a better system of science publishing.
+Informally, peer review is just the development of nascent ideas and theories through critical discussion with others. As such it is as old as science itself. Its stricter sense â the formal scholarly publishing process where an editor sends copies of a manuscript to people judged knowledgeable enough to be able to comment on its suitability for publication â is more recent. In this mode it has been the default of academic publishing since just the mid 20 th Century.
 
-3. Expert Failure: Re-evaluating Research Assessment
+Peer review serves to validate the soundness, the substance and the originality of a work, or to help improve it until it meets these criteria. Peer review, in its current form, is generally:
 
-How do we evaluate the value of scientific output? Whatâs working and whatâs not? This article talks about the problems we are currently facing.
+    Anonymous: Either the author doesnât know who the reviewer is (single-blind) or author and reviewer are both unknown to each other (double-blind).
+    Selective: The reviewers are chosen by the editor.
+    Hidden: The process takes place behind closed doors (or rather password privileges) and the reviews themselves are not published.
 
-4. New wave of online peer review and discussion tools frightens some scientists
+Open review (OR) is the name given to a variety of new review methods that remove one or more of these conditions. Hence, âopenâ can mean either a lack of anonymity, self-selecting reviewers, a public process or some mixture of the three.
+What problems is OR trying to fix?
 
-Why does post-publication peer review matter? How does it make science better? This is a great case study on how post-publication peer review makes things better.
+Studies have shown that although academics are, on the whole, fairly content with peer review, they think it could work better. Here are some of its problems:
 
-5. How science goes wrong
+    Time: Peer review often takes a long, long time. Could open review help speed up the process?
+    Accountability: The anonymity of reviewing, although in principle meritocratic (as junior researchers can criticize the work of luminaries without fear of reprisals), also makes it unaccountable (some say Kafkaesque). Should professionals cast judgments in secret? Shouldnât they be prepared to stand openly by what they believe? Relatedly, would reviews conducted in public be more constructive and less confrontational?
+    Bias: Given the specialized nature of academia, a researcherâs nearest âpeersâ will very often be known to them as either friends or rivals. This fact naturally leads to concern that rejection or acceptance might sometimes have social, rather than scientific, grounds. Even where authorsâ names are withheld, it is often clear from the research itself (or just searching Google) who the author is. If reviews were public, such biases might be further suppressed.
+    Scams: That the peer process takes place behind closed doors also likely aids peer review scams to avoid detection.
+    Incentive: Reviewing, done well, is hard work. If reviews were open, busy academics and researchers could take credit for them, demonstrating experience, community involvement and impact.
+    Wasted effort: Reviewer comments often add context or point to areas for future work. Reviewer disagreements can expose areas of tension in a theory or argument. Readers may find such information helpful and yet at present, this potentially valuable additional information is wasted. Furthermore, as rejected papers are usually resubmitted elsewhere (to be reviewed all over again), there is a duplication of effort âthe same paper might be reviewed multiple times.
 
-Poor experiments, bad analysis and too much trust is causing a big problem and limiting the impact of science. Careerism and other issues are discussed to demonstrate how science needs to improve.
+Different kinds of OR could help address some of these problems. Of course, OR is no panacea and new solutions can bring new difficulties. Nonetheless, in the scope of the wider Open Science movement, it is worth asking if our new digital, networked technologies can help us improve peer review to make it better able to do what we want it to do: improve and select academic work such that it forms a sound and substantial addition to the literature or evidential base of a subject area.
 
-6. Flawed data slip through
+    Open Review and OpenAIRE
 
-Recent study finds that journal papers often contain erroneous or incomplete data.
+    As part of its investigation of new modes of scholarly communication, OpenAIRE2020 will be looking at new modes of open peer review. This work will involve a landscape scan and evaluation of new forms of publishing and OR, considering various publishing routes and publication types. Weâll gather information via literature research and a multi-stakeholder survey (involving research communities, publishers, innovative projects, etc.), as well as build and evaluate prototype services. In the Social Sciences and Humanities, hypotheses.org , a platform hosting academic blogs, will carry out experiments to model a workflow that leads from blog articles â via selection, review and revision â to peer reviewed articles and books. We aim to practise what we preach and publish our results using OR methods and the facilities provided by the prototypes.
 
-7. Medical Journals: âa colossal problem of qualityâ
+    In order to encourage experimentation in OR, weâll shortly be publishing a call for tenders for two prototypes in this area. This and other updates on project progress will be posted here. In the meantime, if you have any questions or comments please do contact us! 
 
-An exploration of issues with traditional peer review and proposed solutions over the last 20 years.
+Tony Ross-Hellauer
 
-8. Why Weâre Shutting Off Our Comments
+OpenAIRE2020 Scientific Manager at GÃ¶ttingen State and University Library, University of GÃ¶ttingen. Email: ross-hellauer@sub.uni-goettingen.de
 
-Why Popular Science will no longer accept comments on new articles.
+More Posts - Twitter - LinkedIn
 
-9. Peer review: how to get it right â 10 tips
+Tags: Open Review , Peer Review
+Â« Open Science: to make research better â a new Association to promote Open Science in Italy
+âPromoting Open Science among Young Researchersâ: a FOSTER workshop by the Lithuanian NOAD Â»
+Featured Items
 
-Brian Lucey shares some expert advice on how to be helpful, scientific and professional when reviewing a paper.
+    Open-Access-Tage 2015 Read More
+    Open-Access-Tage 2015
+    Open Access and Research Data management: Horizon 2020 and Beyond in Ireland. Read More
+    Open Access and Research Data management: Horizon 2020 and Beyond in Ireland.
+    âNational strategy of open accessâ adopted in Slovenia Read More
+    âNational strategy of open accessâ adopted in Slovenia
+    Open Science in Poland 2014. A Diagnosis Read More
+    Open Science in Poland 2014. A Diagnosis
+    openaccess.nl completely overhauled Read More
+    openaccess.nl completely overhauled
+    Training session on Research Data Management in Warsaw Read More
+    Training session on Research Data Management in Warsaw
+    FOSTER seminar âEmbracing Data Management â Bridging the Gap Between Theory and Practiceâ June 4th 2015, Brussels Read More
+    FOSTER seminar âEmbracing Data Management â Bridging the Gap Between Theory and Practiceâ June 4th 2015, Brussels
+    Training session on research data at the French national school for librarians Read More
+    Training session on research data at the French national school for librarians
+    Conference report: ORD2015 in Warsaw, May 28-29 Read More
+    Conference report: ORD2015 in Warsaw, May 28-29
+    Public consultation on Slovenian draft document regarding open access to scientific publications and research data 2015-2020 Read More
+    Public consultation on Slovenian draft document regarding open access to scientific publications and research data 2015-2020
 
-10. The Real Peer Review: Post-Publication
+    Previous
+    Next
 
-Shortcomings of the traditional peer review process and solutions for moving forward.
-What are some other great articles on Peer review and open access? Did we miss any? Let us know about them in the comments section below.
+Recent Posts
 
-    Recent Posts:
-        Padlock 620x620
-        Science Welcomes All Ideasâ¦If You Can Pay
-        May 06, 2014
+    RDA 6th Plenary highlights
+    Second FP7 Post-Grant Open Access Pilot progress report
+    Open-Access-Tage 2015
+    Ljubljana Conference on Open Access and Licensing of Toll Access Journals
+    Open Access and Research Data management: Horizon 2020 and Beyond in Ireland.
+    Developing the first Open Peer Review Module for Institutional Repositories
+    âNational strategy of open accessâ adopted in Slovenia
+    Open Science in Poland 2014. A Diagnosis
+    openaccess.nl completely overhauled
+    Publishers and the FP7 Post-Grant Open Access Pilot
 
-        Scientific research requires a free and open dialogue to thrive. Scientists must communicate their ideas through scientific journals for debate, testing, and often retesting. Today, this is the standard process by which new ideas advance in science. Currently, one major barrier to co... ... read more Â»
-        Dna sequence 620x415
-        Rejected! Pt 1.
-        May 06, 2014
+Archives
 
-        The 2013 Wolf Prize in Agriculture, often referred to as the Nobel Prize in agriculture, was awarded earlier this year to Dr. Joachim Messing. Messingâs work over the years has spanned many fields but what may be considered his most important work was the development of a seminal te... ... read more Â»
-        Placeholder
-        Science Publishing Is Systematically Broken and Itâs Time To Fix It
-        May 06, 2014
+    October 2015  (4)
+    September 2015  (5)
+    August 2015  (3)
+    July 2015  (4)
+    June 2015  (10)
+    May 2015  (7)
+    April 2015  (5)
+    March 2015  (3)
+    February 2015  (5)
 
-        Science publishing is a multi-billion dollar industry that brings investors and owners a spectacular 30% profit annually. How are they able to maintain such high profits and what does this mean for science? Pretend youâre a scientist whoâs made an important discovery. Your next step... ... read more Â»
-
-Â© 2015 The Winnower - ISSN 2373-146X - All rights reserved.
-Navigate +
-
-    Topics
-    Authors
-    Grain & Chaff
-    Submit
-    About
-    Blog
-    Memberships
-    Formatting Guidelines
-    Terms & Conditions
-
-Twitter
-
-    Menage a Quoi? Optimal Number of Peer Reviewers http://t.co/4jOVGqbg9a 10.18.2015
-    RT @matthewevrard: If you meet someone more senior, try this type of email! @ShanskyLab #sfn15 http://t.co/qZlcWMaf6f 10.18.2015
-    Assesing peer review in author-suggested vs. non-author-suggested and open or single-blind peer review models http://t.co/9pzA29tpdY 10.18.2015
-
-The Social Winnower
-twitter facebook rss
+Creative Commons License OpenAIRE Blog by OpenAIRE2020 is licensed under a Creative Commons Attribution 4.0 International License .
+Top
