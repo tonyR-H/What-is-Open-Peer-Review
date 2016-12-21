@@ -1,0 +1,79 @@
+
+/* ::::: http://static.grvcdn.com/personalization/base.ba9d20abcbd784d365c8a49c89a8f87f.css ::::: */
+
+body.grvWidgetIframeBody { margin: 0px; padding: 0px; }
+.grv_clear { clear: both; }
+.grv_right { float: right; }
+.grv_left { float: left; }
+.grv_txt_center { text-align: center; display: block; margin: 0px; }
+.grv_txt_14 { font-size: 14px; }
+* {  }
+.grv_publisher > * { display: none; }
+.grv_publisher_site, .grv_display_name, .grv_article_author, .grv_publisher_title, .grv_publisher_img, .grv_sponsored, .grv_date, .grv_img_link, .grv_number, .grv_stats, .grv_thumb_rating, .grv_current_article_lead, .grv_meta_category, .grv_alt_headline, .grv_secondary_links_header, .grv_secondary_links, .grv_aol_oo_source, .grv_first_tag, .grv_section_name, .grv_video_dur, .grv_article_url_domain { display: none; }
+.grvImpPixel { opacity: 0; width: 1px; height: 1px; line-height: 1px; font-size: 1px; }
+.grv_stories_header { margin-top: 0px; }
+.grv_first_tag { text-transform: capitalize; }
+.grv_post_type { display: none; z-index: 1; }
+.grv_article_content { display: none; width: auto; }
+.grv_article { list-style: outside none none; }
+a.grv_article_title { width: auto; outline: 0px none; }
+a.grv_img_link img.grv_article_img { border-style: none; }
+.grv_article_img.grv_positionable { position: relative; }
+.grv_article_img.grv_full_width { width: 100%; }
+.grv_article_img.grv_full_height { height: 100%; }
+.bg_fade { position: absolute; top: 0px; left: 0px; width: 110%; height: auto; opacity: 0.15; }
+.fade_1 { top: -1%; width: 105%; }
+.fade_2 { top: -2%; }
+.fade_3 { top: -3%; width: 105%; }
+.fade_4 { top: -4%; }
+.fade_5 { top: -5%; width: 108%; }
+.fade_6 { top: -6%; }
+.fade_7 { top: -7%; width: 112%; }
+.fade_8 { top: -8%; }
+.shadow { box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.75); }
+.frosted_glass { position: absolute; top: 0px; left: 0px; right: 0px; bottom: 0px; background: transparent url('frosted_glass_overlay.548dfa6bfb430b7f465a4136b9ca6b25.jpg') repeat scroll 0% 0% / 20% auto; opacity: 0.05; }
+#grv_badge { position: relative; }
+.grv_badge_inner { height: 13px; padding: 5px 10px; position: relative; }
+#grv_personalization, #grv_personalizedby { background: transparent url('by_gravity_lt_dk.8adc67afbfd7d2879c26547fb63a82fd.png') no-repeat scroll -62px 0px; float: right; height: 0px; overflow: hidden; padding-top: 13px; position: relative; right: 0px; width: 17px; }
+#grv_personalization:hover { background-position: -80px 0px; }
+#grv_personalizedby { background-position: 0px 0px; width: 62px; }
+.grv_powered_by #grv_personalization, .grv_powered_by #grv_personalizedby { background: transparent url('powered_gravity_lt_dk.03181119a2f9cc79c9cb4be78b639175.png') no-repeat scroll -109px 0px; }
+.grv_powered_by #grv_personalization:hover { background-position: -127px 0px; }
+.grv_powered_by #grv_personalizedby { background-position: 0px 0px; width: 108px; }
+.grv_dark_bg #grv_personalization, .grv_dark_bg #grv_personalizedby { background-position: -62px -18px; }
+.grv_dark_bg #grv_personalization:hover { background-position: -81px -18px; }
+.grv_dark_bg #grv_personalizedby { background-position: 0px -18px; width: 62px; }
+.grv_text_badge #grv_personalization { background: transparent none repeat scroll 0% 0%; height: auto; width: auto; color: rgb(153, 153, 153); font-size: 11px; padding: 0px; text-decoration: none; }
+.grv_text_badge #grv_personalization:hover { text-decoration: underline; }
+.grvHasSponsored .grv_text_badge #grv_personalization { float: left; }
+#grv_tooltip { display: none; background: transparent none no-repeat scroll right bottom; padding: 0px 0px 5px; position: absolute; margin: 0px; bottom: 19px; right: 0px; z-index: 999; font-family: arial,"Helvetica Neue",sans-serif; }
+.grv_tt_container { padding: 15px; border-top: 1px solid rgb(119, 119, 119); background: transparent linear-gradient(rgb(80, 80, 80), rgb(49, 49, 49)) repeat scroll 0% 0%; border-radius: 6px; box-shadow: 0px -2px 3px rgba(0, 0, 0, 0.5); }
+#grv_tooltip .grv_tt_content { color: rgb(221, 221, 221); font-size: 12px; line-height: 16px; margin: 0px 0px 15px; text-shadow: -1px 0px 3px rgba(0, 0, 0, 0.7); position: relative; }
+#grv_tooltip .grv_tt_content .grv_tt_link { color: rgb(255, 255, 255); text-decoration: none; border-bottom: 1px dotted rgb(153, 153, 153); padding-bottom: 0px; }
+#grv_tooltip .grv_tt_content .grv_tt_link:hover { color: rgb(0, 153, 255); border-bottom: 1px dotted rgb(0, 153, 255); }
+#grv_tooltip a.grv_tt_bottom { display: block; text-decoration: none; font-size: 11px; line-height: 11px; font-weight: normal; padding: 5px 10px; background: transparent url('bg-black-30.988bfe97c00ad02163fd4a78437ac2b9.png') repeat scroll 0% 0%; border-radius: 10px; }
+#grv_tooltip a.grv_tt_bottom, #grv_tooltip a.grv_tt_bottom:visited { color: rgb(238, 238, 238); }
+#grv_tooltip a.grv_tt_bottom:hover { background: rgb(0, 153, 255) none repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+#grv_adchoice { display: none; float: right; width: 10px; height: 10px; margin: 1px 0px 0px 4px; overflow: hidden; background: transparent url('grv_adChoices2.3ce3939de80301b42b7c38cafd10899a.png') no-repeat scroll right center / cover ; }
+.grvHasSponsored #grv_adchoice { display: block; }
+
+/* ::::: http://static.grvcdn.com/personalization/sites/scientificamerica/scientificamerica_eop_resp_8_v2.88005ea7916f882d013c87f1eb65c3ff.css ::::: */
+
+*, *::before, *::after { box-sizing: border-box; }
+#grv_widget { position: relative; overflow: hidden; padding: 0px; margin: 0px; }
+.grv_stories_header { color: rgb(0, 0, 0); display: block; font-family: "Futura",Times,sans-serif; font-size: 18px; font-weight: normal; line-height: 35px; margin: 10px 0px; padding: 0px; }
+ul.grv_articles { margin: 4px 0px 0px; padding: 0px; list-style: outside none none; overflow: hidden; position: relative; }
+li.grv_article { float: left; height: 161px; width: 22%; position: relative; margin: 0px 4% 4% 0px; padding: 0px; }
+li.grv_article.grv_is_sponsored { background-color: rgb(241, 241, 241); border: 1px dotted rgb(178, 178, 178); }
+li.grv_article.grv_is_sponsored .grv_article_title { color: rgb(25, 67, 124); padding: 0px 5px; }
+li.grv_article.grv_num_3, li.grv_article.grv_num_7 { margin-right: 0px; }
+a.grv_article_title { color: rgb(25, 67, 124); display: block; font-family: "Futura",Times,sans-serif; font-size: 12px; font-weight: bold; line-height: 14px; height: 56px; overflow: hidden; margin: 10px 0px 0px; text-align: center; text-decoration: none; position: relative; z-index: 10; }
+a.grv_article_title:hover { text-decoration: underline; }
+li.grv_article a.grv_img_link { height: 90px; display: block; overflow: hidden; position: relative; margin-bottom: 4px; z-index: 2; }
+.grv_post_type { display: block; height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background: transparent none repeat scroll 0% 0%; box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.18) inset; }
+.grv_is_sponsored .grv_sponsored { background: rgb(209, 66, 61) none repeat scroll 0% 0%; color: rgba(255, 255, 255, 0.9); display: block; font-size: 10px; line-height: 10px; padding: 4px 5px 2px; position: absolute; top: 74px; left: 0px; right: 0px; text-align: center; z-index: 11; }
+#grv_badge { display: block; position: absolute; top: 20px; right: 0px; }
+#grv_personalization { display: none; }
+.grv_badge_inner { padding-top: 0px; }
+#grv_adchoice { display: block; }
+#grvWidgetStylesLoaded_scientificamerica_eop_resp_8_v2_88005ea7916f882d013c87f1eb65c3ff_css { width: 1px; height: 1px; visibility: hidden; }
