@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Introduction to open peer review - Information Culture - Scientific American Blog Network</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Last post we talked about traditional peer review, which is at least single-blinded. This time we will focus on Open Peer Review (OPR). The narrowest way to describe OPR is as a process in which the names of the authors and reviewers are known to one another.">
+<meta name="keywords" content="More Science">
+<meta name="author" content="Hadas Shema" />
+<meta name="parsely-metadata" content='{"contentid": "56C4341F-D576-47AE-806A54F66C13C6E4"}'>
+<meta property="og:url" content="http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"/>
+<meta property="og:title" content="Introduction to open peer review" />
+<meta property="vr:published_time" content="2014-06-28T08:424:00">
+<meta property="og:description" content="Last post we talked about traditional peer review, which is at least single-blinded. This time we will focus on Open Peer Review (OPR). The narrowest way to describe OPR is as a process in which the names of the authors and reviewers are known to one another." />
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://blogs.scientificamerican.com/blogs/cache/file/016A02C1-6855-4AA3-A1E0EC94BE3836F8.png" />
+<link rel="stylesheet" href="/sciam/includes/themes/sciam/compiled/theme.min.8E7C6BEBE68D0A56275C524617BD81B2.css" media="all" />
+<link rel="shortcut icon" href="/sciam/includes/themes/sciam/images/ico/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Scientific American - Global RSS Feed" href="http://rss.sciam.com/ScientificAmerican-Global">
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/assets/mejs/mediaelementplayer.min.css">
+<script src="/sciam/jquery/jquery.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/webfonts.css">
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/elusive-webfonts.css">
+<![endif]-->
+<script src="//cdn.optimizely.com/js/2007700279.js"></script>
+<!-- BEGIN Krux Control Tag for "Scientific American" -->
+<!-- Source: /snippet/controltag?confid=Jn7TXKj3&site=Scientific%20American&edit=1 -->
+<script class="kxct" data-id="Jn7TXKj3" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function()
+{Krux.q.push(arguments)}
+).q=[]);
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Jn7TXKj3";
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+<!-- BEGIN KRUX INTERCHANGE GPT -->
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]); (function(){
+function retrieve(n){
+var m, k='kx'+n;
+if (window.localStorage) {
+return window.localStorage[k] || "";
+} else if (navigator.cookieEnabled) {
+m = document.cookie.match(k+'=([^;]*)'); return (m && unescape(m[1])) || "";
+} else {
+return '';
+} }
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!-- END KRUX INTERCHANGE GPT -->
+<!-- BEGIN KRUX INTERCHANGE DFP LEGACY -->
+<script class="kxint" type="text/javascript">
+window.Krux || ((Krux = function() {
+Krux.q.push(arguments);
+}).q = []);
+(function() {
+function retrieve(n) {
+var m, k = 'kx' + n;
+if (window.localStorage) {
+return window.localStorage[k] || "";
+} else if (navigator.cookieEnabled) {
+m = document.cookie.match(k + '=([^;]*)');
+return (m && unescape(m[1])) || "";
+} else {
+return '';
+}
+}
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : [];
+var dfpp = [];
+if (Krux.user) {
+dfpp.push('kuid=' + Krux.user);
+}
+for (var i = 0; i < Krux.segments.length; i++) {
+dfpp.push('ksg=' + Krux.segments[i]);
+}
+Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : '';
+})();
+</script>
+<!-- END KRUX INTERCHANGE DFP LEGACY -->
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){ var gads = document.createElement('script');
+gads.async = true; gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type=""text/javascript"">
+googletag.cmd.push(function() {
+gptadslots[1]= googletag.defineSlot('/67238587/sciam.com/blogs/information-culture', [[728,90],[970,90]],'div-gpt-ad-top-1').setTargeting('position',['top']).addService(googletag.pubads());
+gptadslots[2]= googletag.defineSlot('/67238587/sciam.com/blogs/information-culture', [[300,250],[300,600],[300,1050]],'div-gpt-ad-right1-1').setTargeting('position',['right1']).addService(googletag.pubads());
+gptadslots[3]= googletag.defineSlot('/67238587/sciam.com/blogs/information-culture', [300,250],'div-gpt-ad-right2-1').setTargeting('position',['right2']).addService(googletag.pubads());
+gptadslots[4] = googletag.defineOutOfPageSlot('/67238587/sciam.com/blogs/information-culture', 'div-gpt-ad-interstitial-1').addService(googletag.pubads());
+gptadslots[5] = googletag.defineSlot('/67238587/sciam.com/blogs/information-culture', [300,100],'div-gpt-ad-right4-1').setTargeting('position',['right4']).addService(googletag.pubads());
+gptadslots[6] = googletag.defineSlot('/67238587/sciam.com/blogs/information-culture', [300,100],'div-gpt-ad-right5-1').setTargeting('position',['right5']).addService(googletag.pubads());
+// All page-level DFP Custom Tagging goes here
+googletag.pubads()
+.setTargeting('section', 'information-culture')
+.setTargeting('type', 'blog')
+.setTargeting('primary-cat', 'the-sciences')
+.setTargeting('topic', ['the-sciences','biology','chemistry','everyday-science','history-of-science','math','physics','policy-and-ethics','science-education','society-and-policy'])
+.setTargeting('title', 'an-introduction-to-open-peer-review')
+.setTargeting('tags', 'more-science')
+.setTargeting('author', 'hadas-shema')
+.setTargeting('ref-url', '');
+googletag.pubads().setTargeting("ksg", Krux.segments);
+googletag.pubads().setTargeting("kuid", Krux.user);
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- End: GPT -->
+<!--CACHE:MISS-->
+<link rel="alternate" hreflang="es" href="http://www.scientificamerican.com/espanol/" />
+<meta name="google-site-verification" content="cDwbrdn8RhmAHrXPmkrv_Vknai9yXuYdvHSKGI32QdA" />
+<script type="text/javascript">
+var dtExample="11/10/2018";
+var dtCh="/";
+var dtFormat =[0,1,2];
+var dtLocale="en-US";
+</script>
+<script type="text/javascript" src="/sciam/js/global.min.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="blogs";
+var sitedomain="blogs.scientificamerican.com";
+var siteID="blogs";
+var context="";
+var jslib="jquery";
+var assetpath="/sciam";
+var themepath="/sciam/includes/themes/sciam";
+var htmlEditorType="";
+var rb="en";
+</script>
+<script src="/sciam/includes/themes/sciam/display_objects/comments/js/comments-jquery.js" type="text/javascript"></script></head>
+<body id="informationculture" class="sysAnIntroductionToOpenPeerReview">
+<section id="bannerContain">
+<div class="bannerAd">
+<div class="text">ADVERTISEMENT</div>
+<div id="div-gpt-ad-top-1" class="adSpace">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-top-1");
+});
+</script>
+</div>
+</div>
+</section>
+<header id="site-header">
+<div id="headerLogo" style="float:left;">
+<a href="http://www.scientificamerican.com/">
+<img src="/sciam/includes/themes/sciam/images/logo.jpg" alt="Scientific American">
+</a>
+</div>
+<ul id="header-nav">
+<esi:remove>
+<li>
+<div class="myProfile">
+<div id="myProfileContainer">
+<span class="myProfileLinks">
+<ul>
+<li><a href="http://www.scientificamerican.com/my-account/login/" title="Sign In">Sign In</a> | <a href="http://www.scientificamerican.com/my-account/register/" title="Register">Register</a></li>
+<li><a href="http://www.scientificamerican.com/store/shopping-cart/" id="cartIcon"></a></li>
+<li class="badgeIcon"><a href="http://www.scientificamerican.com/store/shopping-cart/"><span class="badge">0</span></a></li>
+</ul>
+</span>
+</div>
+</div>
+</li>
+</esi:remove>
+<!--esi
+<esi:include src="/sciam/esi_header-user.cfm" />
+-->
+</ul>
+<div id="mainSearch">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)" id="searchForm">
+<div id="input-border">
+<input name="q" type="text" id="textfield" placeholder="Search ScientificAmerican.com" onfocus="this.style.color='#222222';" maxlength="200"/>
+</div>
+<div id="sbmt-border">
+<input id="searchButton" type="image" src="/sciam/includes/themes/sciam/images/global/icon_search.png" alt="Search" width="17" height="17" />
+</div>
+<input type="hidden" name="display" value="search"/>
+</form>
+</div>
+<div id="subscriptionCenter">
+<h3>Subscription Center</h3>
+<div class="subCenterRollover" id="hover1" style="display:none;">Every Issue. Every Year. 1845-Present. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover2" style="display:none;">Save up to 65% when you subscribe today. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover3" style="display:none;">The perfect gift for any holiday or occasion. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<!---<div id="hover4" style="display:none;" class="subCenterRollover">Best deal on print subscription plus Tablet Edition for iPad <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>--->
+<ul>
+<li><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-all-access/?WT.mc_id=SA_Webstore_SCA_AllAccess_SubCenter&amp;responseKey=W3S03RD00" target="_blank">Subscribe to All Access <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SCA&cds_page_id=185258&cds_response_key=I5S03R00B" target="_blank">Subscribe to Print <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-gift.jsp?cds_page_id=136785&amp;cds_mag_code=SCA&amp;cds_response_key=I5S03G000" target="_blank">Give a Gift <span class="red">&raquo;</span></a></li>
+<li><a href="/magazine/sa/current">View the Latest Issue <span class="red">&raquo;</span></a></li>
+</ul>
+<div id="cover-ipad"><img alt="" src="/media/cover/current.jpg" /></div>
+<img alt="" id="cover-print" src="/media/cover/current.jpg" /></div>
+<nav class="navbar navbar-inverse span12">
+<div class="navbar-inner">
+<div>
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="nav-collapse collapse">
+<nav class="navbar navbar-inverse span12">
+<ul id="navPrimary" class="nav">
+<li id="navSubscribe">
+<a href="http://www.scientificamerican.com/subscribe/" target="_blank">Subscribe</a>
+</li>
+<li id="navsection" class="dropdown">
+<a href="http://www.scientificamerican.com/" class="dropdown-toggle">News & Features</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navlateststories" class="first"><a href="http://www.scientificamerican.com/section/lateststories/" target="_self">Latest Stories</a></li>
+<li id="navask-the-experts" ><a href="http://www.scientificamerican.com/section/ask-the-experts/" target="_self">Ask the Experts</a></li>
+<li id="navfact-or-fiction" ><a href="http://www.scientificamerican.com/section/fact-or-fiction/" target="_self">Fact or Fiction</a></li>
+<li id="navextreme-tech" ><a href="http://www.scientificamerican.com/section/extreme-tech/" target="_self">Extreme Tech</a></li>
+<li id="navweb-features" ><a href="http://www.scientificamerican.com/section/web-features/" target="_self">Features</a></li>
+<li id="navonline-forum" ><a href="http://www.scientificamerican.com/section/online-forum/" target="_self">Forum</a></li>
+<li id="navin-depth-reports" ><a href="http://www.scientificamerican.com/section/in-depth-reports/" target="_self">In-Depth Reports</a></li>
+<li id="navinteractive-features" ><a href="http://www.scientificamerican.com/section/interactive-features/" target="_self">Interactive Features</a></li>
+<li id="navmind-matters" ><a href="http://www.scientificamerican.com/section/mind-matters/" target="_self">Mind Matters</a></li>
+<li id="navnews" ><a href="http://www.scientificamerican.com/section/news/" target="_self">News</a></li>
+<li id="navscience-images" ><a href="http://www.scientificamerican.com/section/science-images/" target="_self">Science Images</a></li>
+<li id="navslideshow" ><a href="http://www.scientificamerican.com/section/slideshow/" target="_self">Slide shows</a></li>
+</ul>
+</li>
+<li id="navTopics" class="dropdown">
+<a href="http://www.scientificamerican.com/topics/" class="dropdown-toggle">Topics</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navhealth-and-medicine" class="first"><a href="http://www.scientificamerican.com/health-and-medicine/">Health</a></li>
+<li id="navmind-and-brain" ><a href="http://www.scientificamerican.com/mind-and-brain/">Mind</a></li>
+<li id="navsustainability" ><a href="http://www.scientificamerican.com/sustainability/">Sustainability</a></li>
+<li id="navtechnology" ><a href="http://www.scientificamerican.com/technology/">Tech</a></li>
+<li id="navthe-sciences" ><a href="http://www.scientificamerican.com/the-sciences/">The Sciences</a></li>
+<li id="navBiology" class="subNavItem"><a href="http://www.scientificamerican.com/biology/">Biology</a></li>
+<li id="navChemistry" class="subNavItem"><a href="http://www.scientificamerican.com/chemistry/">Chemistry</a></li>
+<li id="navPhysics" class="subNavItem"><a href="http://www.scientificamerican.com/physics/">Physics</a></li>
+<li id="navAllTopics" class="allTopics"><a href="http://www.scientificamerican.com/topics/">All topics</a></li>
+</ul>
+</li>
+<li id="navBlogs" class="dropdown">
+<a href="http://blogs.scientificamerican.com/" class="dropdown-toggle">Blogs</a>
+</li>
+<li id="navmultimedia" class="dropdown">
+<a href="http://www.scientificamerican.com/multimedia/" class="dropdown-toggle">Videos & Podcasts</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navvideo" class="first"><a href="http://www.scientificamerican.com/video/" target="_self">Video</a></li>
+<li id="navsas-the-countdown" ><a href="http://www.scientificamerican.com/multimedia/sas-the-countdown/" target="_self">SA's The Countdown</a></li>
+<li id="nav60-second-science" ><a href="http://www.scientificamerican.com/podcast/60-second-science/" target="_self">60-Second Science Podcast</a></li>
+<li id="nav60-second-earth" ><a href="http://www.scientificamerican.com/podcast/60-second-earth/" target="_self">60-Second Earth Podcast</a></li>
+<li id="nav60-second-health" ><a href="http://www.scientificamerican.com/podcast/60-second-health/" target="_self">60-Second Health Podcast</a></li>
+<li id="nav60-second-mind" ><a href="http://www.scientificamerican.com/podcast/60-second-mind/" target="_self">60-Second Mind Podcast</a></li>
+<li id="nav60-second-space" ><a href="http://www.scientificamerican.com/podcast/60-second-space/" target="_self">60-Second Space Podcast</a></li>
+<li id="nav60-second-tech" ><a href="http://www.scientificamerican.com/podcast/60-second-tech/" target="_self">60-Second Tech Podcast</a></li>
+<li id="navscience-talk" ><a href="http://www.scientificamerican.com/podcast/science-talk/" target="_self">Science Talk Podcast</a></li>
+</ul>
+</li>
+<li id="naveducation" class="dropdown">
+<a href="http://www.scientificamerican.com/education/" class="dropdown-toggle">Education</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navscientific-american-at-the-google-science-fair" class="first"><a href="http://www.scientificamerican.com/education/scientific-american-at-the-google-science-fair/" target="_self">SA at the Google Science Fair</a></li>
+<li id="navbring-science-home" ><a href="http://www.scientificamerican.com/education/bring-science-home/" target="_self">Bring Science Home</a></li>
+<li id="navcitizen-science-link" ><a href="http://www.scientificamerican.com/education/citizen-science-link/" target="_self">Citizen Science</a></li>
+<li id="navdigital-education-report" ><a href="http://www.scientificamerican.com/education/digital-education-report/" target="_self">Digital Education Report</a></li>
+<li id="navprofessional-learning" ><a href="http://www.scientificamerican.com/education/professional-learning/" target="_self">Professional Learning</a></li>
+<li id="nav1000-scientists-in-1000-days" ><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/" target="_self">1,000 Scientists in 1,000 Days</a></li>
+<li id="navsearch-for-scientistseducators" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/search-for-scientistseducators/">Search for Scientists/Educators</a></li>
+<li id="navscientist-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/scientist-sign-up/">Scientist Sign Up</a></li>
+<li id="naveducator-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/educator-sign-up/">Educator Sign Up</a></li>
+<li id="navparticipant-dashboard" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/participant-dashboard/">Participant Dashboard</a></li>
+<li id="navscitable" ><a href="http://www.scientificamerican.com/education/scitable/" target="_blank">Scitable</a></li>
+<li id="naveducation-resources" ><a href="http://www.scientificamerican.com/education/education-resources/" target="_self">Education Resources</a></li>
+</ul>
+</li>
+<li id="navcitizen-science" class="dropdown">
+<a href="http://www.scientificamerican.com/citizen-science/" class="dropdown-toggle">Citizen Science</a>
+<ul class="dropdown-menu" style="display: none;">
+<li id="navsolve-innovation-challenges" class="first"><a href="http://www.scientificamerican.com/citizen-science/solve-innovation-challenges/">Solve Innovation Challenges</a></li>
+</ul>
+</li>
+<li id="navsa" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/sa/" class="dropdown-toggle">SA Magazine</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/sa/2015/10-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-gift.jsp?cds_page_id=136785&cds_mag_code=SCA&cds_response_key=I5S04G000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/sa/?WT.mc_id=SA_Webstore_SCA_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/sa/2015/10-01/">Inside the Latest Issue</a></b>
+<ul id="SAMagUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/advances/">Advances</a></li>
+<li><a href="http://www.scientificamerican.com/department/50-100-and-150-years-ago/">50, 100 & 150 Years Ago</a></li>
+<li><a href="http://www.scientificamerican.com/department/antigravity/">Anti Gravity</a></li>
+<li><a href="http://www.scientificamerican.com/department/forum/">Forum</a></li>
+<li><a href="http://www.scientificamerican.com/department/graphic-science/">Graphic Science</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-agenda/">The Science Agenda</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-of-health/">The Science of Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/skeptic/">Skeptic</a></li>
+<li><a href="http://www.scientificamerican.com/department/technofiles/">TechnoFiles</a></li>
+<li><a href="http://www.scientificamerican.com/department/recommendations/">Recommended</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/sa/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+<li class="magExtras">
+<span class="moreFromSA">
+More from SA:
+</span>
+<ul>
+<li>
+<a href="http://blogs.scientificamerican.com/magazine/sa-classics/">
+<img src="" class="magCover">
+<span class="title">
+Classics
+</span>
+</a>
+</li>
+<li>
+<a href="http://blogs.scientificamerican.com/store/subscribe/briefings/briefings-overview/">
+<img src="" class="magCover">
+<span class="title">
+Briefings
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.scientificamerican.com/page/mobile/">
+<img src="/sciam/includes/themes/sciam/images/global/saMagNavMobile.jpg">
+<span class="title">
+Mobile
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navmind" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/mind/" class="dropdown-toggle">SA Mind</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/mind/2015/11-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full&mag=mind" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/pubs/SC/MND/google-MND-gift.jsp?cds_page_id=136804&cds_mag_code=MND&cds_response_key=I5M04G000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/mind/?WT.mc_id=SA_Webstore_MND_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/mind/home/">SA Mind Home Page</a></b>
+<b><a href="http://blogs.scientificamerican.com/mind">SA Mind Blog Network</a></b>
+<b><a href="http://www.scientificamerican.com/magazine/mind/2015/11-01/">Inside the Latest Issue</a></b>
+<ul id="SAMindUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/head-lines/">Head Lines</a></li>
+<li><a href="http://www.scientificamerican.com/department/ask-the-brains/">Ask the Brains</a></li>
+<li><a href="http://www.scientificamerican.com/department/consciousness-redux/">Consciousness Redux</a></li>
+<li><a href="http://www.scientificamerican.com/department/facts-and-fictions-in-mental-health/">Facts and Fictions in Mental Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/illusions/">Illusions</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-in-pictures/">Mind in Pictures</a></li>
+<li><a href="http://www.scientificamerican.com/department/perspectives/">Perspectives</a></li>
+<li><a href="http://www.scientificamerican.com/department/were-only-human/">We're Only Human</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-reviews/">Reviews and Recommendations</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/mind/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navbooks" class="dropdown">
+<a href="http://books.scientificamerican.com/sa-ebooks/landing/" class="dropdown-toggle">Books</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navsafsg-books" class="first"><a href="http://www.scientificamerican.com/books/safsg-books/" target="_self">SA/FSG Books</a></li>
+<li id="navscientific-american-ebooks" ><a href="http://www.scientificamerican.com/books/scientific-american-ebooks/" target="_self">Scientific American eBooks</a></li>
+</ul>
+</li>
+<li id="navEspanol" class="dropdown">
+<a href="http://blogs.scientificamerican.com/espanol/">
+SA en español
+</a>
+</li>
+<li id="stickyNavSearch">
+<img src="/sciam/includes/themes/sciam/images/global/stickyNavSearch.jpg">
+</li>
+<div id="stickySearchDrop">
+<img src="/sciam/includes/themes/sciam/images/global/search-arrow.png">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)">
+<input name="q" type="text" id="textfield" value="Enter search term(s)..." onfocus="this.value=''; this.style.color='#222222';" maxlength="200"/>
+<input type="image" src="/sciam/includes/themes/sciam/images/global/stickyNavSearchButton.jpg" alt="Search" width="26" height="26" id="searchbtn" />
+</form>
+</div>
+</ul>
+</nav>
+</div><!--/.nav-collapse -->
+</div><!-- .container -->
+</div><!-- /.navbar-inner -->
+</nav><!-- /.navbar -->
+</header>
+<div id="bodyWrap">
+<div class="row-fluid">
+<div class="blogsHeader subHeader">
+<h2><a href="/">Blogs</a></h2>
+<a class="rssLink" href="http://rss.sciam.com/all-blogs/feed">Blogs RSS</a>
+<div class="search">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)">
+<input type="text" value="" placeholder="Search All Blogs" name="q" id="sKeyword"/>
+<input type="image" src="/sciam/includes/themes/sciam/images/global/icon_search_alt.gif" value="Submit" alt="Search" width="15" height="15" />
+<input type="hidden" name="display" value="search">
+<input type="hidden" name="source" value="blogpost">
+</form>
+</div>
+</div>
+<section class="span9 content">
+<header class="blogBanner">
+<img src="/blogs/cache/file/0514D8D2-09B3-4F03-BF9A6CDE770F7C3D.jpg" alt="Information Culture" width="200" height="135">
+<div class="title">
+<h2>
+<a href="/information-culture/">Information Culture</a>
+<a href="http://rss.sciam.com/information-culture/feed" class="rssLink"><i class="icon-rss"></i></a>
+</h2>
+<div class="description"><p>Thoughts and analysis related to science information, data, publication and culture.</p></div>
+<div class="about">
+<ul>
+<li class="first">
+<a href="/information-culture/about/">About</a>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<article class="article">
+<header class="article-header">
+<div class="article-IDRPromoWrap">
+</div>
+<h1 class="article-title">
+Introduction to open peer review
+</h1>
+<div class="article-author article-date">
+By <a href="http://www.scientificamerican.com/author/hadas-shema">Hadas Shema</a> <span class="metaDataDivider">|</span>
+June 28, 2014
+</div>
+<span class="metaDataDivider">|</span>
+<div id="commentsFlairPrint"><a class="tinyCommentCount" data-id="56C4341F-D576-47AE-806A54F66C13C6E4" href="#comments">0</a></div>
+<div class="article-socialVertical">
+<div id="shareFloat">
+<a target="_blank" href="https://twitter.com/intent/tweet?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/&amp;text=Introduction to open peer review"><i class="icon-twitter icon-large"></i></a>
+<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?p[url]=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-facebook icon-large"></i></a>
+<a target="_blank" href="https://plus.google.com/share?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-googleplus icon-large"></i></a>
+<a target="_blank" class="reddit" href="http://www.reddit.com/submit" onclick="window.open('http://www.reddit.com/submit?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/&newwindow=1', 'external'); return false"><i class="icon-reddit"></i></a>
+<a href="#" class="overlay-controller" id="emailForm" data-title="Introduction to open peer review" data-url="http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/" data-summary="Last post we talked about traditional peer review, which is at least single-blinded. This time we will focus on Open Peer Review (OPR). The narrowest way to describe OPR is as a process in which the names of the authors and reviewers are known to one another."><i class="icon-envelope"></i></a>
+<a href="http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/?print=true" rel="nofollow"><i class="icon-print"></i></a>
+</div>
+<script type="text/javascript">
+if(document.location.href.indexOf("/espanol") > -1){
+$(function() {
+var offset = $("#shareFloat").offset();
+var topPadding = 135;
+$(window).scroll(function() {
+if ($(window).scrollTop() > (offset.top - '55') ) {
+$('#shareFloat').css('top', $(window).scrollTop() - offset.top + topPadding);
+} else {
+$('#shareFloat').css('top','47px').css('left','-55px');
+};
+});
+});
+} else {
+$(function() {
+var offset = $("#shareFloat").offset();
+var topPadding = 45;
+$(window).scroll(function() {
+if ($(window).scrollTop() > (offset.top - '5')) {
+$('#shareFloat').css('top', $(window).scrollTop() - offset.top + topPadding);
+} else {
+$('#shareFloat').css('top','47px').css('left','-55px');
+};
+});
+});
+}
+</script>
+</div>
+</header>
+<section class="article-complementary" >
+</section>
+<section class="article-content site-blogs">
+<p><a href="http://blogs.scientificamerican.com/information-culture/2014/04/19/introduction-to-traditional-peer-review/" target="_blank">Last post</a> we talked about traditional peer review, which is at least single-blinded. This time we will focus on Open Peer Review (OPR). The narrowest way to describe OPR is as a process in which the names of the authors and reviewers are known to one another. Beyond this narrow definition, OPRs can be classified into a number of categories (Ford, 2013):</p><p><ul></p><p>	<li>Signed – when reviewers‘ names appear alongside the published article or the reviews that are passed to the authors have the reviewers’ names on them.</li></p><p>	<li>Disclosed – the author and the reviewer are aware of each other’s identity and engage in discussion during the review process.</li></p><p>	<li>Editor-mediated – when an editor facilitates a part of the peer-review process, either by pre-selecting articles for review and/or making the final decision regarding an article.</li></p><p>	<li>Transparent – the entire review process is “out in the open,” including the original manuscripts, the reviewers’ comments and the authors’ replies.</li></p><p>	<li>Crowdsourced – anyone can comment on the article (before its official publication).</li></p><p>	<li>Pre-publication – any public review occurring before the article’s publication (say an article submitted to a preprint server)</li></p><p>	<li>Synchronous – supposed to happen exactly in the time of an article’s publication. In reality, it doesn’t exist. As Ford notes: “In the literature, synchronous review is approached only theoretically, as part of a novel and completely iterative publishing model.”</li></p><p>	<li>Post-publication – happens after an article’s publication (e.g. a blog post, an F1000Prime review).</li></p><p></ul></p><p>In 2006, Nature undertook an OPR trial lasting four months. In addition to traditional peer review, authors of each article submitted to Nature that wasn’t rejected outright (about 60% of the articles sent to Nature are rejected without review) were able to choose whether, in addition to traditional peer review, they wanted their article to be displayed online for the public’s comments. Out of the 1,369 articles Nature reviewed during that time, authors of 71 (5%) chose to undergo the OPR. The trial was well-publicized ahead of time by Nature, but comments were rather scarce. The most-commented upon article received ten comments, and 33 articles received no comments. As Nature put it: “Despite enthusiasm for the concept, open peer review was not widely popular, either among authors or by scientists invited to comment.” Although the Nature experiment was considered a failure, other OPR experiments have proven to be more successful.</p><p>The editors of the Biology Direct journal published last year an article titled “Biology Direct: celebrating 7 years of open, published peer review.” In BD “the signed reviews and the author responses are published as an integral part of the final version of each article.”</p><p>(Koonin, Landweber &amp; Lipman, 2013). During its first seven years, BD published 365 research articles. Though both the Nature and the BD approaches are called OPR, it seemed Nature chose the crowdsourcing route, while BD took the transparent one.</p><p>Of course, there are many other differences between the Nature experiment and BD: Nature is hardly a new, unestablished journal; the Nature experiment lasted only four months and OPR was optional for authors rather than mandatory; BD is committed to OPR “we strived to establish a new system of peer review that we hoped would avoid the all too obvious pitfalls of anonymous peer review,” while Nature has no intention of replacing its current system; Nature is multidisciplinary, while BD focuses on core areas in biology.</p><p>Launched in 2001, the Atmospheric Chemistry and Physics (ACP) adopted a multi-stage OPR. The submitted articles first go through fast screening and, if deemed appropriate for the journal, published as “discussion papers” in its discussion forum. They stay there for eight weeks, during which the designated referees’ reviews, other comments, if exist, and the authors’ replies are published in the forum as well. Designated referees can decide whether to sign their reviews or not, but other comments are signed (only “register readers” can comment). Then the manuscripts are, if required, revised and peer-reviewed again if required (by the designated referees). If the manuscripts are accepted, at the end of the process they will be officially published in the journal. ACP publishes about 800 articles a year.</p><p>ACP Editor Ulrich Pöschl (2012) noted the advantages of the process:</p><p>1. Rapid dissemination of results and uncensored communication regarding said results.</p><p>2. A way to officially document controversy and discussions regarding the articles, as well as reducing the chance of plagiarism; a better chance of detecting an article’s flaws.</p><p>3. A final product that is based both on the designated referees’ reviews and on interested readers’ comments.</p><p>&nbsp;</p><p><a href="http://blogs.scientificamerican.com/information-culture/files/2014/06/peer-review-ACP.png"><img class="aligncenter size-medium wp-image-1821" title="peer review ACP" src="http://blogs.scientificamerican.com/information-culture/files/2014/06/peer-review-ACP-300x180.png" alt="" width="300" height="180" /></a></p><p><p style="text-align: center;"><strong>The ACP peer-review process (Source: Pöschl, 2012).</strong></p></p><p><span style="font-size: 13px;">Note that in none of the journals the crowd-sourced peer review has replaced the designated referees. It is regarded as supplementary material. That is because, first of all, many articles don’t even receive comments. Even if they do, we cannot tell for sure if the commenter is indeed a “peer”. The general lack of comments is unsurprising, considering that researchers are overworked as it is, and most wouldn’t bother with reviews they have not been specifically asked for. Another issue is that of open criticism. Scientists often avoid public criticism of their peers, and usually ignore work they consider irrelevant or flawed (Cole &amp; Cole, 1971). van Rooyen et al. (1999) found that designated referees that were asked to sign their reviews were 12% more likely to decline reviewing an article.</span></p><p>Biologist and blogger Zen Faulkes accurately wrote that</p><p><em>“When PLOS ONE launched in 2006, one of its prominent innovations was to provide tools for users to comment upon and rate papers very easily. These largely went unused. I don’t know of any journal that has a thriving online community discussing papers within the journal.”</em></p><p>Faulkes believes that the attempts of journals to create special discussion forums for their articles, as well as designated social media sites for scientists and post-publication peer review sites are all less effective than regular social media when it comes to science evaluation. He considers post-publication peer review in social media not as peer review in its traditional sense, but as “just the biggest research conference in the world.”</p><p>To quote Steven Harnad: “The refereed journal literature needs to be freed from both paper and its costs, but not from peer review, whose "invisible hand" is what maintains its quality.”</p><p>Traditional peer review (with designated referees) will not go out of fashion any time soon, but it is easier than even to supplement it with further discussion, whether pre- or post- official publication.</p><p>&nbsp;</p><p><strong>References</strong></p><p>Cole, J., &amp; Cole, S. (1971). Measuring the quality of sociological research.Problems in the use of the Science Citation Index. American Sociologist,6(1), 23–29.</p><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Nature&amp;rft_id=info%3Adoi%2F10.1038%2F441668a&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Peer+review+on+trial&amp;rft.issn=0028-0836&amp;rft.date=2006&amp;rft.volume=441&amp;rft.issue=7094&amp;rft.spage=668&amp;rft.epage=668&amp;rft.artnum=http%3A%2F%2Fwww.nature.com%2Fdoifinder%2F10.1038%2F441668a&amp;rft.au=Editorial&amp;rfe_dat=bpr3.included=1;bpr3.tags=Research+%2F+Scholarship">Editorial (2006). Peer review on trial <span style="font-style: italic;">Nature, 441</span> (7094), 668-668 DOI: <a rev="review" href="http://dx.doi.org/10.1038/441668a">10.1038/441668a</a></span></p><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Neuron&amp;rft_id=info%3Adoi%2F10.1016%2Fj.neuron.2014.03.032&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=The+Vacuum+Shouts+Back%3A+Postpublication+Peer+Review+on+Social+Media&amp;rft.issn=08966273&amp;rft.date=2014&amp;rft.volume=82&amp;rft.issue=2&amp;rft.spage=258&amp;rft.epage=260&amp;rft.artnum=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627314002888&amp;rft.au=Faulkes%2C+Z.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Research+%2F+Scholarship">Faulkes, Z. (2014). The Vacuum Shouts Back: Postpublication Peer Review on Social Media <span style="font-style: italic;">Neuron, 82</span> (2), 258-260 DOI: <a rev="review" href="http://dx.doi.org/10.1016/j.neuron.2014.03.032">10.1016/j.neuron.2014.03.032</a></span></p><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Journal+of+Scholarly+Publishing&amp;rft_id=info%3Adoi%2F10.3138%2Fjsp.44-4-001&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Defining+and+Characterizing+Open+Peer+Review%3A+A+Review+of+the+Literature&amp;rft.issn=1198-9742&amp;rft.date=2013&amp;rft.volume=44&amp;rft.issue=4&amp;rft.spage=311&amp;rft.epage=326&amp;rft.artnum=http%3A%2F%2Futpjournals.metapress.com%2Fopenurl.asp%3Fgenre%3Darticle%26id%3Ddoi%3A10.3138%2Fjsp.44-4-001&amp;rft.au=Ford%2C+E.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Research+%2F+Scholarship">Ford, E. (2013). Defining and Characterizing Open Peer Review: A Review of the Literature <span style="font-style: italic;">Journal of Scholarly Publishing, 44</span> (4), 311-326 DOI: <a rev="review" href="http://dx.doi.org/10.3138/jsp.44-4-001">10.3138/jsp.44-4-001</a></span></p><p>Greaves, S., Scott, J., Clarke, M., Miller, L., Hannay, T., Thomas, A., &amp; Campbell, P. (2006). Overview: Nature’s peer review trial. <em>Nature</em>.</p><p>Harnad, S. (2000). The invisible hand of peer review. <em>Exploit Interactive</em>, <em>5</em>(April).</p><p>Koonin, E. V., Landweber, L. F., &amp; Lipman, D. J. (2011). published peer review. <em>Biol Direct</em>, <em>6</em>, 35.</p><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Frontiers+in+computational+neuroscience&amp;rft_id=info%3Apmid%2F22783183&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Multi-stage+open+peer+review%3A+scientific+evaluation+integrating+the+strengths+of+traditional+peer+review+with+the+virtues+of+transparency+and+self-regulation.&amp;rft.issn=&amp;rft.date=2012&amp;rft.volume=6&amp;rft.issue=&amp;rft.spage=33&amp;rft.epage=&amp;rft.artnum=&amp;rft.au=P%C3%B6schl+U&amp;rfe_dat=bpr3.included=1;bpr3.tags=Research+%2F+Scholarship">Pöschl U (2012). Multi-stage open peer review: scientific evaluation integrating the strengths of traditional peer review with the virtues of transparency and self-regulation. <span style="font-style: italic;">Frontiers in computational neuroscience, 6</span> PMID: <a rev="review" href="http://www.ncbi.nlm.nih.gov/pubmed/22783183">22783183</a></span></p><p>van Rooyen, S., Godlee, F., Evans, S., Black, N., &amp; Smith, R. (1999). Effect of open peer review on quality of reviews and on reviewers’ recommendations: A randomised trial. <em>British Medical Journal, 318</em>(7175), 23–27.</p>
+</section>
+<footer class="article-footer">
+<div class="article-authorBios">
+<ul>
+</ul>
+</div>
+<div class="blogsDisclaimer">
+<p>
+<i>The views expressed are those of the author and are not necessarily those of</i> Scientific American.
+</p>
+</div>
+<div class="article-socialHorizontal">
+<div id="shareHorizontal">
+<span>Share this Article:</span>
+<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?p[url]=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-facebook icon-large"></i></a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/&amp;text=Introduction to open peer review"><i class="icon-twitter icon-large"></i></a>
+<a target="_blank" href="https://plus.google.com/share?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-googleplus icon-large"></i></a>
+<a target="_blank" class="reddit" href="http://www.reddit.com/submit" onclick="window.open('http://www.reddit.com/submit?url=' + window.location.href + '&newwindow=1', 'external'); return false"><i class="icon-reddit"></i></a>
+<a target="_blank" href="http://www.tumblr.com/share"><i class="icon-tumblr icon-large"></i></a>
+<a target="_blank" href="https://www.linkedin.com/cws/share?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-linkedin icon-large"></i></a>
+<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/"><i class="icon-stumbleupon"></i></a>
+<a target="_blank" href="http://digg.com/submit?phase=2&url=http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/&title=Introduction to open peer review"><i class="icon-digg"></i></a>
+</div>
+</div>
+<div id="grv-personalization-127"></div>
+<script type='text/javascript'>
+//<![CDATA[
+(function(){
+window.gravityInsightsParams = {
+'type': 'content',
+'action': '',
+'site_guid': '0764e1b55cf9992e246aa7770f416d34'
+};
+var adServerReq,bUrl,cburl,doUseGravityUserGuid,extPlacementIdOpt,externalPlacementId,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";
+ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",extPlacementIdOpt=gravityInsightsParams.epl,externalPlacementId=extPlacementIdOpt&&"${EXTERNAL_PLACEMENT_ID}"!==extPlacementIdOpt?extPlacementIdOpt:
+"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-127&pl=127"+("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+"&epl="+encodeURIComponent(externalPlacementId)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?
+"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+//]]>
+</script>
+<div class="article-comments">
+<div id="svComments" >
+<a name="comments"></a>
+<h3>Comments</h3>
+<div id="commentsSort">
+<select id="sortDirectionSelector" name="sortDirection" label="sort">
+<option value="asc">Oldest - Newest</option>
+<option value="desc">Newest - Oldest</option>
+</select>
+</div>
+<div id="commentsPage" data-contentid="56C4341F-D576-47AE-806A54F66C13C6E4" data-siteid="blogs"></div>
+<div id="postcomment-form" >
+<a name="postcomment"></a>
+<span id="postcomment-comment" style="display: none"><a class="btn" href="#postcomment">New Comment</a></span>
+<span id="signedInConfirm">You must <a href="http://www.scientificamerican.com/my-account/login/">sign in</a> or <a href="http://www.scientificamerican.com/my-account/register/">register</a> as a ScientificAmerican.com member to submit a comment.</span>
+</div>
+</div>
+</div>
+<div class="article-bottomPromo" id="bottomPromoArea">
+</div>
+</footer>
+</article>
+<script type="text/javascript" src="/sciam/js/thickbox.js"></script>
+<link rel="stylesheet" href="/sciam/css/thickbox.css">
+<section class="content-objects" id="sysAnintroductiontoopenpeerreview">
+</section>
+</section><!-- /.span -->
+<aside class="span3 sidebar">
+<!-- sidebar -->
+<div id="subCol" class="subColNew sidebar-blogs">
+<div class="rightNavAboutBlogs subColNewWidget">
+Welcome to the Scientific American Blog Network, a forum for a diverse and independent set of voices to share news and opinions and discuss issues related to science. For more information see our About page and Guidelines....<a href="/about-the-network/">more</a>
+</div>
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right1-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right1-1");
+});
+</script>
+</div>
+</div>
+<div class="rightNavBlogsList subColNewWidget">
+<h3 class="rightNavTitle">Our Blogs</h3>
+<h4>SA BLOGS</h4>
+<ul>
+<li>
+<a href="/at-scientific-american/">@ScientificAmerican</a>
+(Inside SciAm)
+</li>
+<li>
+<a href="/anecdotes-from-the-archive/">Anecdotes from the Archive</a>
+(History)
+</li>
+<li>
+<a href="/dark-star-diaries/">Dark Star Diaries</a>
+(Blackholes)
+</li>
+<li>
+<a href="/expeditions/">Expeditions</a>
+(Field research)
+</li>
+<li>
+<a href="/guest-blog/">Guest Blog</a>
+(Expert voices)
+</li>
+<li>
+<a href="/mind-guest-blog/">MIND Guest Blog</a>
+(Expert voices)
+</li>
+<li>
+<a href="/observations/">Observations</a>
+(News)
+</li>
+<li>
+<a href="/sa-visual/">SA Visual</a>
+(Art)
+</li>
+<li>
+<a href="/talking-back/">Talking back</a>
+(Neuroscience)
+</li>
+<li>
+<a href="/voices/">Voices</a>
+(Diversity in science)
+</li>
+</ul>
+<h4>NETWORK BLOGS</h4>
+<ul>
+<li>
+<a href="/anthropology-in-practice/">Anthropology in Practice</a>
+(Anthropology)
+</li>
+<li>
+<a href="/beautiful-minds/">Beautiful Minds</a>
+(Intelligence & creativity)
+</li>
+<li>
+<a href="/budding-scientist/">Budding Scientist</a>
+(Kids in STEM)
+</li>
+<li>
+<a href="/cocktail-party-physics/">Cocktail Party Physics</a>
+(Physics)
+</li>
+<li>
+<a href="/compound-eye/">Compound Eye</a>
+(Scientific photography)
+</li>
+<li>
+<a href="/cross-check/">Cross-Check</a>
+(Science in the news)
+</li>
+<li>
+<a href="/dog-spies/">Dog Spies</a>
+(Companion animals)
+</li>
+<li>
+<a href="/extinction-countdown/">Extinction Countdown</a>
+(Endangered species)
+</li>
+<li>
+<a href="/food-matters/">Food Matters</a>
+(Food & nutrition)
+</li>
+<li>
+<a href="/frontiers-for-young-minds/">Frontiers for Young Minds</a>
+(Science for kids)
+</li>
+<li>
+<a href="/illusion-chasers/">Illusion Chasers</a>
+(Illusions & perception)
+</li>
+<li>
+<a href="/life-unbounded/">Life, Unbounded</a>
+(Astrobiology & cosmology)
+</li>
+<li>
+<a href="/not-bad-science/">Not bad science</a>
+(Animal behavior & cognition)
+</li>
+<li>
+<a href="/plugged-in/">Plugged In</a>
+(Energy technology & policy)
+</li>
+<li>
+<a href="/psysociety/">PsySociety</a>
+(Psychology & pop culture)
+</li>
+<li>
+<a href="/roots-of-unity/">Roots of Unity</a>
+(Math)
+</li>
+<li>
+<a href="/rosetta-stones/">Rosetta Stones</a>
+(Geology)
+</li>
+<li>
+<a href="/running-ponies/">Running Ponies</a>
+(Animals)
+</li>
+<li>
+<a href="/symbiartic/">Symbiartic</a>
+(Science art)
+</li>
+<li>
+<a href="/tetrapod-zoology/">Tetrapod Zoology</a>
+(Zoology)
+</li>
+<li>
+<a href="/artful-amoeba/">The Artful Amoeba</a>
+(Natural history)
+</li>
+<li>
+<a href="/urban-scientist/">The Urban Scientist</a>
+(Culture & diversity)
+</li>
+<li>
+<a href="/unofficial-prognosis/">Unofficial Prognosis</a>
+(Medical School Experience)
+</li>
+</ul>
+<a href="/archived-blogs/"><h4 class="archivedBlogs">View Archived Blogs</h4></a>
+</div>
+<div id="shopCenter">
+<h3 id="shopSA">More from Scientific American</h3>
+<div id="shopSlider">
+<div id="shopContainer">
+<div id="mind" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Carousel">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/mind-subunit-logo.png">
+<img class="cover" src="/media/cover/current.jpg?mag=mind">
+</a>
+</div>
+<div id="classics" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/magazine/sa-classics/?WT.mc_id=SA_Webstore_SAClassics_Carousel">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/classics-subunit-logo.png">
+<img class="cover" src="/sciam/cache/file/B94584FC-BB1D-4F84-9214B7D23DD2AE8D_W76_H100.jpg" >
+</a>
+</div>
+<div id="digital" class="subUnits">
+<a target="_blank" href="http://www.scientificamerican.com/store/subscribe/scientific-american-digital/?WT.mc_id=SA_Webstore_SAD_Carousel&responseKey=W3D07RE00">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/digital-subunit-logo.png">
+<img src="/sciam/includes/themes/sciam/images/global/subunits/subunit-digital.png">
+<img class="burst" src="/sciam/includes/themes/sciam/images/global/subunits/digital-burst.png">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="rightNavSocial subColNewWidget">
+<div class="sciamFollowList">
+<h3 class="rightNavTitle">Follow Us:</h3>
+<ul id="chicletLinks">
+<li class="facebook">
+<a href="http://www.facebook.com/scientificamerican" title="Facebook" target="_blank">
+<i class="icon-facebook icon-2x"></i>
+</a>
+</li>
+<li class="twitter">
+<a href="http://www.twitter.com/sciam" class="aptureNoEnhance" title="Twitter" target="_blank">
+<i class="icon-twitter icon-2x"></i>
+</a>
+</li>
+<li class="googlePlus"><a href="https://plus.google.com/107538622122068192565/posts" title="Google+">
+<i class="icon-googleplus icon-2x"></i>
+</a>
+</li>
+<li class="youtube">
+<a href="http://www.youtube.com/sciamerican" title="YouTube" target="_blank" >
+<i class="icon-youtube icon-2x"></i>
+</a>
+</li>
+<li class="rss"><a href="http://www.scientificamerican.com/sitemap/" title="RSS">
+<i class="icon-rss icon-2x"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="bannerAdSidebar">ADVERTISEMENT
+</div>
+<div class="rightNavSciLogs subColNewWidget">
+<a href="http://www.scilogs.com/" target="_blank">
+<h3 class="rightNavTitle">
+View the Latest on <img src="/sciam/includes/themes/sciam/images/global/SciLogsWidget_logo.png">
+</h3>
+</a>
+</div>
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right2-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right2-1");
+});
+</script>
+</div>
+</div>
+</div>
+</aside><!-- /.span -->
+</div><!-- /.row -->
+<footer id="site-footer">
+<div class="subOffer">
+<div class="subscriptionForm">
+<img class="title" src="/sciam/includes/themes/sciam/images/global/riskfree_title.gif" alt="risk free title graphic" />
+<p><b>YES!</b> Send me a free issue of Scientific American with no obligation to continue the subscription. If I like it, I will be billed for the one-year subscription.</p>
+<img class="cover" src="/media/cover/current.jpg" alt="cover image" width="90" height="120" />
+<a id="footerSubscribe" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SCA&cds_page_id=185258&cds_response_key=I5S09R00B" target="_blank">Subscribe Now</a>
+</div>
+</div>
+<div id="bottomNav">
+<span id="copyright">
+&copy; 2015 Scientific American, a Division of Nature America, Inc.</span>
+<br /><br />
+<a href="./?mobileFormat=true" rel="nofollow" class="viewMobileSite" style="display: none">View Mobile Site</a>
+<span id="rights">All Rights Reserved.</span>
+<br /><br />
+<div class="footer-links">
+<ul class="footerLinks">
+<li><a href="/mediakit/" rel="nofollow" target="_blank">Advertise</a></li>
+<li><a href="/ad-sections" rel="nofollow" target="_blank">Special Ad Sections</a></li>
+<li><a href="/page/custom-media-and-partnerships/" rel="nofollow" target="_blank">SA Custom Media and Partnerships</a></li>
+<li><a href="/naturejobs/">Science Jobs</a></li>
+<li><a href="/partners/" rel="nofollow">Partner Network</a></li>
+<li><a href="/page/international">International Editions</a></li>
+<li><a href="http://www.scientificamerican.com/travel" target="_blank">Travel</a></li>
+</ul>
+<ul class="footerLinks">
+<li><a href="/pressroom/about-scientific-american/">About Scientific American</a></li>
+<li><a href="/pressroom/" rel="nofollow">Press Room</a></li>
+<li><a href="/sitemap">Site Map</a></li>
+<li><a href="/page/terms-of-use/" rel="nofollow">Terms of Use </a></li>
+<li><a href="/page/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+<li style="float: right"><a href="/page/use-of-cookies/" rel="nofollow">Use of Cookies</a></li>
+</ul>
+<ul class="footerLinks"><li><a href="/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_SAMag_Footer_Self" rel="nofollow" target="_blank">Subscribe</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Renew Your Print Subscription</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Print Subscriber Customer Service</a></li>
+<li><a href="/page/buy-back-issues/" rel="nofollow" target="_blank">Buy Back Issues</a></li>
+<li><a href="/page/frequently-asked-questions/">FAQs</a></li>
+<li style="float: right"><a href="/page/contact-us/" rel="nofollow">Contact Us</a></li>
+</ul>
+<style type="text/css">#site-footer #bottomNav{display:inline-block !important;float:none !important;}</style>
+</div>
+</div>
+</footer>
+<!-- email overlay -->
+<div id="overlay-emailForm" class="overlay">
+<h3>Email this Article</h3>
+<h4></h4>
+<form id="emailer" link="http://blogs.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=blogs" action="http://blogs.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=blogs" class="asyncForm">
+<input type="hidden" name="title" id="emailForm-title" value="">
+<input type="hidden" name="url" id="emailForm-url" value="">
+<input type="hidden" name="summary" id="emailForm-summary" value="">
+<div id="cfformprotect">
+</div>
+<fieldset>
+<label for="your_name">
+Your Name
+<input type="input" id="your_name" name="your_name" value="">
+</label>
+<label for="from_address">
+Your Email Address
+<input type="email" id="from_address" name="from_address" value="">
+</label>
+<label for="to_address">
+Recipient's Email Address (separate multiple addresses with a comma)
+<input type="text" id="to_address" name="to_address" value="">
+</label>
+<label for="comment">
+Comment (optional)
+<textarea id="comment" name="comment"></textarea>
+</label>
+</fieldset>
+<input type="submit" value="Send">
+</form>
+<span class="closer">X</span>
+</div><!--CACHE:HIT-->
+</div><!-- /.container -->
+<script type="text/javascript" src="/sciam/includes/themes/sciam/assets/mejs/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="/sciam/includes/themes/sciam/compiled/theme.min.8C364CB8387787EAF545811F4514730E.js"></script><!--CACHE:HIT-->
+<script type="text/javascript">(function( $ ){$.slatwall = new Hibachi({"timeFormat":"hh:mm tt","dateFormat":"mmm dd, yyyy","action":"slatAction","baseURL":"\/Slatwall"});})( jQuery );</script>
+<!-- START OF SmartSource Data Collector TAG v10.4.12 -->
+<!-- Copyright (c) 2013 Webtrends Inc. All rights reserved. -->
+<script>
+setTimeout(function() {
+window.webtrendsAsyncInit=function(){
+var onSiteDomains = 'nature.com,connotea.org,labanimal.com,natureasia.com,naturechina.com.cn,neuroscience-gateway.org,palgrave-connect.com,www.econolog.net,www.palgrave-journals.com,www.rikenresearch.riken.jp,www.scitable.com,www.natureprotocols.com,scientificamerican.com,sciam.com';
+window.dcs = new Webtrends.dcs().init({
+dcsid:"dcszbiart00000oiar2s6w5ud_4y9j",
+domain:"statse.webtrendslive.com",
+timezone:-5,
+downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx",
+navigationtag:"div,table",
+trackevents:true,
+enabled:true,
+i18n:false,
+adimpressions:true,
+adsparam:"WT.ac",
+offsite: true,
+paidsearchparams:"gclid",
+splitvalue:"",
+preserve:true,
+cookieTypes:"all",
+metanames:"Access,citation_authors,citation_title,citation_journal_title,citation_date,citation_volume,citation_issue,citation_doi",
+onsitedoms: {
+doms: onSiteDomains,
+test: function(host) {
+if (onSiteDomains.length > 0) {
+var doms = onSiteDomains.split(",");
+var len = doms.length;
+var pattern;
+for (var i = 0; i < len; i++) {
+doms[i] = doms[i].replace(/^\s*/, "").replace(/\s*$/, "");
+pattern = new RegExp(doms[i] + '$');
+if (host.search(pattern) != -1) {
+return true;
+}
+}
+}
+return false;
+}
+},
+fpcdom:".scientificamerican.com",
+plugins:{
+hm:{src:"//s.webtrends.com/js/webtrends.hm.js"},
+WT_Nature_ndl: {
+src: function (_window) {
+_window = _window || window;
+if (!_window.Webtrends)
+return;
+function doTransform(d, o) {
+var e = o.element || {};
+var evt = o.event || {};
+var getDl = function() {
+if (o && o.argsa) {
+for (var i = 0; i < o.argsa.length - 1; i += 2) {
+if (o.argsa[i] === 'WT.dl') {
+return o.argsa[i + 1];
+}
+}
+}
+return d.WT.dl;
+};
+var _dl = getDl() || '0';
+// Begin test for offsite.
+if (e.hostname && !d.dcsIsOnsite(e.hostname, d._onsitedoms) && !d._isRightClick(evt)) {
+_dl = '24';
+}
+// End test for offsite
+// Start testing for downloads
+if ((e.pathname) && d.dcsTypeMatch(e.pathname, d._downloadtypes) && !d._isRightClick(evt)) {
+_dl = '20';
+}
+// End testing for downloads
+o.argsa.push("WT.ndl", _dl);
+if (d.DCS.dcsuri.substr(d.DCS.dcsuri.length-4)=='.pdf') {
+_dl = '0';
+}
+d.WT.ndl = _dl;
+}
+function regTransform() {
+_window.Webtrends.addTransform(doTransform, 'all');
+}
+Webtrends.registerPlugin("WT_Nature_ndl", regTransform);
+}
+}
+}
+});
+dcs.WT.cg_n = "Scientific American Blog Network";
+dcs.WT.cg_s = "Blogs: Information Culture";
+dcs.WT.sa_cat = "The Sciences";
+dcs.WT.sa_cattop = "More Science";
+dcs.WT.sa_author = "Hadas Shema";
+dcs.WT.sa_pubdate = "2014/06/28";
+dcs.WT.sa_access_status = "free_to_air";
+dcs.WT.sa_cstatus_registrant = "0"
+dcs.WT.sa_cstatus_customer = "0";
+dcs.WT.sa_cstatus_subscriber = "0";
+if ( $('#slbuConfirm').length != 0 ){
+dcs.WT.sa_cstatus_sitelicense = "1";
+} else{
+dcs.WT.sa_cstatus_sitelicense = "0";
+}
+dcs.WT.z_cg_ecollection = "";
+dcs.WT.sa_article_id = "56C4341F-D576-47AE-806A54F66C13C6E4";
+dcs.WT.z_css = "desktop";
+if ( $("form#createAccountForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario";
+dcs.WT.si_x = "1";
+dcs.WT.tx_e = "a";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if ( $("form#fulfillmentForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario";
+dcs.WT.si_x = "2";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if ( $("form#billingForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario;SA_CheckOutScenario_v2";
+dcs.WT.si_x = "3;1";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if( $("form#placeOrderForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario;SA_CheckOutScenario_v2";
+dcs.WT.si_x = "4;2";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+dcs.track();
+};
+(function(){
+var s=document.createElement("script"); s.src="/sciam/includes/themes/sciam/js/trackingScripts/WT10/webtrends.js";
+var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+}, 2000);
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcszbiart00000oiar2s6w5ud_4y9j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.12&amp;dcssip=www.sciam.com"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.12 -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p--bdWkk8TkNGBU"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p--bdWkk8TkNGBU.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<noscript>
+<div>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403331h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="scientificamerican.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+<script type="application/ld+json">
+{"thumbnailUrl":"http://blogs.scientificamerican.com/blogs/cache/file/016A02C1-6855-4AA3-A1E0EC94BE3836F8_small.png","keywords":["The Sciences","Biology","Chemistry","Everyday Science","History of Science","Math","Physics","Policy & Ethics","Science Education","Society & Policy","More Science"],"creator":["Hadas Shema"],"@context":"http://schema.org","@type":"NewsArticle","headline":"Introduction to open peer review","articleSection":"Blogs: Information Culture","url":"http://blogs.scientificamerican.com/information-culture/an-introduction-to-open-peer-review/","dateCreated":"2014-06-28T09:00:28Z-0400"}
+</script>
+<script type="text/javascript" src="//nexus.ensighten.com/npg/prod-sa/Bootstrap.js"></script>
+<div id='div-gpt-ad-interstitial-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-interstitial-1");
+});
+</script>
+</div>
+</body>
+</html>
