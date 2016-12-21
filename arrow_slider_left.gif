@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Error</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Latest news and features on science issues that matter including earth, environment, and space. Get your science news from the most trusted source!">
+<meta name="keywords" content>
+<meta property="og:site_name" content="Scientific American - Science News, Articles, and Information" />
+<meta property="og:description" content="Latest news and features on science issues that matter including earth, environment, and space. Get your science news from the most trusted source!" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="/sciam/includes/themes/sciam/images/logo400x400.jpg" />
+<link rel="stylesheet" href="/sciam/includes/themes/sciam/css/theme/custom.less.css" media="all" charset="utf-8" />
+<link rel="stylesheet" href="/sciam/includes/themes/sciam/css/theme/webfonts.css" media="all" charset="utf-8" />
+<script src="/sciam/jquery/jquery.js"></script>
+<script type="text/javascript" src="//nexus.ensighten.com/npg/dev-sa/Bootstrap.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/webfonts.css">
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/elusive-webfonts.css">
+<![endif]-->
+<link rel="shortcut icon" href="/sciam/includes/themes/sciam/images/ico/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Scientific American - Global RSS Feed" href="http://rss.sciam.com/ScientificAmerican-Global">
+<script language="JavaScript" src="http://oascentral.scientificamerican.com/Scripts/oas_analytics.js"></script>
+<script type="text/javascript">
+// start config
+OAS_url = 'http://oascentral.scientificamerican.com/RealMedia/ads/';
+OAS_sitepage = 'sciam.com/home';
+OAS_listpos = 'Top,Right1,Right2';
+OAS_query = '&ref=' + document.referrer;
+OAS_taxonomy = '';
+OAS_target = '';
+// end configuration
+OAS_query += '&XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE';
+OAS_version = 10;
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(e){document.write('<A HREF="'+OAS_url+"click_nx.ads/"+OAS_sitepage+"/1"+OAS_rns+"@"+OAS_listpos+"!"+e+"?"+OAS_query+'" TARGET='+OAS_target+">");document.write('<IMG SRC="'+OAS_url+"adstream_nx.ads/"+OAS_sitepage+"/1"+OAS_rns+"@"+OAS_listpos+"!"+e+"?"+OAS_query+'" BORDER=0></A>')}
+</script>
+<!-- begin OAS browser test -->
+<script type="text/javascript">
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+</script>
+<script type="text/javascript">
+document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11) 
+OAS_RICH(pos); 
+else 
+OAS_NORMAL(pos); 
+}
+</script>
+</head>
+<body id="404" class="sys404">
+<section id="bannerContain">
+<div class="bannerAd">
+<div class="text">ADVERTISEMENT</div>
+<div class="adSpace">
+<script type="text/javascript">OAS_AD("Top");</script>
+</div> 
+</div> 
+</section> 
+<header id="site-header">
+<div id="headerLogo" style="float:left;">
+<a href="/">
+<img src="/sciam/includes/themes/sciam/images/logo.jpg" alt="Scientific American">
+</a>
+</div>
+
+<div id="mainSearch">
+<form action="/search/" onsubmit="return checkSiteSearch(this)" id="searchForm">
+<div id="input-border">
+<input name="q" type="text" id="textfield" placeholder="Search ScientificAmerican.com" onfocus="this.style.color='#222222';" maxlength="200"/>
+</div>
+<div id="sbmt-border">
+<input id="searchButton" type="image" src="/sciam/includes/themes/sciam/images/global/icon_search.png" alt="Search" width="17" height="17" />
+</div>
+<input type="hidden" name="display" value="search"/>
+</form>
+</div>
+<div id="subscriptionCenter">
+<h3>Subscription Center</h3>
+<div class="subCenterRollover" id="hover1" style="display:none;">Every Issue. Every Year. 1845-Present. <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover2" style="display:none;">Save up to 65% when you subscribe today. <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover3" style="display:none;">The perfect gift for any holiday or occasion. <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<!---<div id="hover4" style="display:none;" class="subCenterRollover">Best deal on print subscription plus Tablet Edition for iPad <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>--->
+<ul>
+<li><a href="/store/subscribe/scientific-american-all-access/?WT.mc_id=SA_Webstore_TEST_SCA_AllAccess_SubCenter" target="_blank">Subscribe to All Access <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-2497.jsp?cds_page_id=143556&amp;cds_mag_code=SCA&amp;id=1380649392936&amp;lsid=32741241109018790&amp;vid=2&amp;cds_response_key=I3S00R002" target="_blank">Subscribe to Print <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=SCA&amp;cds_page_id=146797&amp;cds_response_key=I3S03X000" target="_blank">Give a Gift <span class="red">&raquo;</span></a></li>
+<li><a href="/magazine/sa/current">View the Latest Issue <span class="red">&raquo;</span></a></li>
+</ul>
+<div id="cover-ipad"><img src="/media/cover/current.jpg" /></div>
+<img id="cover-print" src="/media/cover/current.jpg" /></div>
+<nav class="navbar navbar-inverse span12">
+<div class="navbar-inner">
+<div>
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="nav-collapse collapse">
+<nav class="navbar navbar-inverse span12">
+<ul id="navPrimary" class="nav">
+<li id="navSubscribe"><a href="/subscribe/">Subscribe</a></li>
+<li id="stickyNavHome"><a href="/"><img src="/sciam/includes/themes/sciam/images/global/stickyNavHome.jpg"></a></li>
+<li id="navsection" class="dropdown">
+<a href="/" class="dropdown-toggle">News & Features</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navask-the-experts" class="first"><a href="/section/ask-the-experts/">Ask the Experts</a></li>
+<li id="navextreme-tech" ><a href="/section/extreme-tech/">Extreme Tech</a></li>
+<li id="navweb-features" ><a href="/section/web-features/">Features</a></li>
+<li id="navonline-forum" ><a href="/section/online-forum/">Forum</a></li>
+<li id="navin-depth-reports" ><a href="/section/in-depth-reports/">In-Depth Reports</a></li>
+<li id="navinteractive-features" ><a href="/section/interactive-features/">Interactive Features</a></li>
+<li id="navlateststories" ><a href="/section/lateststories/">Latest Stories</a></li>
+<li id="navmind-matters" ><a href="/section/mind-matters/">Mind Matters</a></li>
+<li id="navnews" ><a href="/section/news/">News</a></li>
+<li id="navscience-images" ><a href="/section/science-images/">Science Images</a></li>
+<li id="navslideshow" ><a href="/section/slideshow/">Slide shows</a></li>
+</ul>
+</li>
+<li id="navTopics" class="dropdown">
+<a href="/topics/" class="dropdown-toggle">Topics</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navenergy-and-sustainability" class="first"><a href="/energy-and-sustainability/">Energy & Sustainability</a></li>
+<li id="navevolution" ><a href="/evolution/">Evolution</a></li>
+<li id="navhealth-and-medicine" ><a href="/health-and-medicine/">Health</a></li>
+<li id="navmind-and-brain" ><a href="/mind-and-brain/">Mind & Brain</a></li>
+<li id="navspace" ><a href="/space/">Space</a></li>
+<li id="navtechnology" ><a href="/technology/">Technology</a></li>
+<li id="navbasic-science" ><a href="/basic-science/">More Science</a></li>
+<li id="navBiology" class="subNavItem"><a href="/biology/">Biology</a></li>
+<li id="navChemistry" class="subNavItem"><a href="/chemistry/">Chemistry</a></li>
+<li id="navPhysics" class="subNavItem"><a href="/physics/">Physics</a></li>
+<li id="navAllTopics" class="allTopics"><a href="/topics/">All topics</a></li>
+</ul>
+</li>
+<li id="navBlogs" class="dropdown">
+<a href="http://blogs.scientificamerican.com/" class="dropdown-toggle">Blogs</a>
+<ul class="dropdown-menu" style="display: none;">
+<li class="first"><a href="http://blogs.scientificamerican.com/staff">Staff Blogs</a></li>
+<li><a href="http://blogs.scientificamerican.com/mind">MIND Blog Network</a></li>
+<li><a href="http://blogs.scientificamerican.com/">From Our Network</a></li>
+</ul>
+</li>
+<li id="navmultimedia" class="dropdown">
+<a href="/multimedia/" class="dropdown-toggle">Videos & Podcasts</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navvideo" class="first"><a href="/video/">Video</a></li>
+<li id="navsas-the-countdown" ><a href="/multimedia/sas-the-countdown/">SA's The Countdown</a></li>
+<li id="nav60-second-science" ><a href="/podcast/60-second-science/">60-Second Science Podcast</a></li>
+<li id="nav60-second-earth" ><a href="/podcast/60-second-earth/">60-Second Earth Podcast</a></li>
+<li id="nav60-second-health" ><a href="/podcast/60-second-health/">60-Second Health Podcast</a></li>
+<li id="nav60-second-mind" ><a href="/podcast/60-second-mind/">60-Second Mind Podcast</a></li>
+<li id="nav60-second-space" ><a href="/podcast/60-second-space/">60-Second Space Podcast</a></li>
+<li id="nav60-second-tech" ><a href="/podcast/60-second-tech/">60-Second Tech Podcast</a></li>
+<li id="navscience-talk" ><a href="/podcast/science-talk/">Science Talk Podcast</a></li>
+</ul>
+</li>
+<li id="naveducation" class="dropdown">
+<a href="/education/" class="dropdown-toggle">Education</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navbring-science-home" class="first"><a href="/education/bring-science-home/">Bring Science Home</a></li>
+<li id="navscience-in-action" ><a href="/education/science-in-action/">Science in Action Award</a></li>
+<li id="navdigital-education-report" ><a href="/education/digital-education-report/">Digital Education Report</a></li>
+<li id="navcitizen-science-link" ><a href="/education/citizen-science-link/">Citizen Science</a></li>
+<li id="naveducation-resources" ><a href="/education/education-resources/">Education Resources</a></li>
+</ul>
+</li>
+<li id="navcitizen-science" class="dropdown">
+<a href="/citizen-science/" class="dropdown-toggle">Citizen Science</a>
+<ul class="dropdown-menu" style="display: none;">
+<li id="navwhale-song-project" class="first"><a href="/citizen-science/whale-song-project/">Whale-Song Project</a></li>
+<li id="navsolve-innovation-challenges"><a href="/citizen-science/solve-innovation-challenges/">Solve Innovation Challenges</a></li>
+</ul>
+</li>
+<li id="navsa" class="dropdown">
+<a href="/magazine/sa/" class="dropdown-toggle">SA Magazine</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="/magazine/sa/current/">
+<img src="/media/cover/current.jpg" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_TEST_SCA_MultiControl_SAMag_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="/store/subscribe/gift/give-scientific-american-magazine/?WT.mc_id=SA_Webstore_TEST_SCA_MultiControl_SAMag_Nav_Gift" target="_blank" class="redLink">Give as a Gift</a>
+<a href="/magazine/sa/?WT.mc_id=SA_Webstore_TEST_SCA_SAMag_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div> 
+</li>
+<li class="magNav first">
+<b><a class="first" href="/magazine/sa/current/">Inside the Latest Issue</a></b>
+<ul id="SAMagUL">
+<li><a href="/department/feature-articles/">Features</a></li> 
+<li><a href="/department/advances/">Advances</a></li> 
+<li><a href="/department/50-100-and-150-years-ago/">50, 100 & 150 Years Ago</a></li> 
+<li><a href="/department/antigravity/">Anti Gravity</a></li> 
+<li><a href="/department/forum/">Forum</a></li> 
+<li><a href="/department/graphic-science/">Graphic Science</a></li> 
+<li><a href="/department/the-science-agenda/">The Science Agenda</a></li> 
+<li><a href="/department/the-science-of-health/">The Science of Health</a></li> 
+<li><a href="/department/skeptic/">Skeptic</a></li> 
+<li><a href="/department/technofiles/">TechnoFiles</a></li> 
+<li><a href="/department/recommendations/">Recommended</a></li> 
+<li><a href="/magazine/sa/">Archive</a></li>
+<li><a href="/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+<li class="magExtras">
+<span class="moreFromSA">
+More from SA:
+</span> 
+<ul>
+<li>
+<a href="/magazine/sa-classics/">
+<img src="/sciam/cache/file/9DA0C453-68F2-4811-A7B08248FBBC2676.gif" class="magCover">
+<span class="title">
+Classics
+</span> 
+</a> 
+</li> 
+<li>
+<a href="/store/subscribe/briefings/briefings-overview/">
+<img src="/sciam/cache/file/023B174D-7550-4D8A-8ED59DFE555357FF.jpg" class="magCover">
+<span class="title">
+Briefings
+</span> 
+</a> 
+</li>
+<li>
+<a href="/page/mobile/">
+<img src="/sciam/includes/themes/sciam/images/global/saMagNavMobile.jpg">
+<span class="title">
+Mobile
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul>
+</li>
+<li id="navmind" class="dropdown">
+<a href="/magazine/mind/" class="dropdown-toggle">SA Mind</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="/magazine/mind/2013/11-01/">
+<img src="/media/cover/current.jpg?mag=mind" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_TEST_MND_MultiControl_SAMind_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="/store/subscribe/gift/give-scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_TEST_MND_MultiControl_SAMind_Nav_Gift" target="_blank" class="redLink">Give as a Gift</a>
+<a href="/magazine/mind/?WT.mc_id=SA_Webstore_TEST_SCA_SAMind_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div> 
+</li>
+<li class="magNav first">
+<b><a class="first" href="/magazine/mind/home/">SA Mind Home Page</a></b>
+<b><a href="http://blogs.scientificamerican.com/mind">SA Mind Blog Network</a></b>
+<b><a href="/magazine/mind/current/">Inside the Latest Issue</a></b>
+<ul id="SAMindUL">
+<li><a href="/department/feature-articles/">Features</a></li> 
+<li><a href="/department/head-lines/">Head Lines</a></li> 
+<li><a href="/department/ask-the-brains/">Ask the Brains</a></li> 
+<li><a href="/department/consciousness-redux/">Consciousness Redux</a></li> 
+<li><a href="/department/facts-and-fictions-in-mental-health/">Facts and Fictions in Mental Health</a></li> 
+<li><a href="/department/illusions/">Illusions</a></li> 
+<li><a href="/department/mind-in-pictures/">Mind in Pictures</a></li> 
+<li><a href="/department/perspectives/">Perspectives</a></li> 
+<li><a href="/department/were-only-human/">We're Only Human</a></li> 
+<li><a href="/department/mind-reviews/">Reviews and Recommendations</a></li> 
+<li><a href="/magazine/mind/">Archive</a></li>
+<li><a href="/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navbooks" class="dropdown">
+<a href="/books/" class="dropdown-toggle">Books</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navscientific-american-ebooks" class="first"><a href="/books/scientific-american-ebooks/">Scientific American eBooks</a></li>
+<li id="navsafsg-books" ><a href="/books/safsg-books/">SA/FSG Books</a></li>
+</ul>
+</li>
+<li id="stickyNavSearch">
+<img src="/sciam/includes/themes/sciam/images/global/stickyNavSearch.jpg">
+</li>
+<div id="stickySearchDrop">
+<img src="/sciam/includes/themes/sciam/images/global/search-arrow.png">
+<form action="/search/" onsubmit="return checkSiteSearch(this)">
+<input name="q" type="text" id="textfield" value="Enter search term(s)..." onfocus="this.value=''; this.style.color='#222222';" maxlength="200"/>
+<input type="image" src="/sciam/includes/themes/sciam/images/global/stickyNavSearchButton.jpg" alt="Search" width="26" height="26" id="searchbtn" />
+</form>
+</div>
+</ul>
+</nav>
+</div><!--/.nav-collapse -->
+</div><!-- .container -->
+</div><!-- /.navbar-inner -->
+</nav><!-- /.navbar -->
+</header>
+ 
+<div id="bodyWrap">    
+    <div class="row-fluid">
+        <section class="span12 content">
+        	<h1>We're sorry, the page you were looking for could not be found.</h1>
+
+            <div class="errorText">
+                <h4>We Suggest:</h4>
+
+                <ul>
+                    <li>Check the spelling of the web address.</li>
+                    <li>Browse through our archive for a magazine article from a specific issue.</li>
+                    <li>Click the &quot;Back&quot; button on your browser or <a href="/">go to our home page.</a></li>
+                    <li>Try using the search box below to find what you're looking for.</li>
+                </ul>
+
+                <div id="supplSearch">
+                    <form action="/search/" onsubmit="return checkSiteSearch(this)">Search <input id="textfield" name="q" style="margin-left:10px;" type="text" value="" /> <input name="display" type="hidden" value="search" /> <input alt="Search" height="15" src="/sciam/includes/themes/sciam/images/global/icon_search_alt.gif" type="image" width="15" />&nbsp;</form>
+                </div>
+
+                <p style="font-size:12px; padding-top:8px;">If you have arrived to this page through a link on another website,
+                    please inform the webmaster of the site that the page has been moved.</p>
+            </div>
+            <br><br>
+        </section>
+    </div>
+
+    <footer id="site-footer">
+    <div id="bottomNav">
+    <span id="copyright">Scientific American is a trademark of Scientific American, Inc., used with permission
+    <br /><br />
+    &copy; 2013 Scientific American, a Division of Nature America, Inc.</span>
+    <br /><br />
+    <a href="./?mobileFormat=true" rel="nofollow" class="viewMobileSite" style="display: none">View Mobile Site</a>
+    <style>
+    @media (max-device-width: 700px) {
+    .viewMobileSite {
+    display:block !important; 
+    margin-bottom:10px !important;
+    }
+    }
+    </style>
+    <span id="rights">All Rights Reserved.</span>
+    <br /><br />
+    <div class="footer-links">
+    <ul class="footerLinks">
+    <li><a href="/mediakit/" rel="nofollow" target="_blank">Advertise</a></li>
+    <li><a href="/ad-sections" rel="nofollow" target="_blank">Special Ad Sections</a></li>
+    <li><a href="/naturejobs/">Science Jobs</a></li>
+    <li><a href="/partners/" rel="nofollow">Partner Network</a></li>
+    <li><a href="/page/international">International Editions</a></li>
+    <li><a href="http://www.scientificamerican.com/travel" target="_blank">Travel</a></li>
+    </ul>
+    <ul class="footerLinks">
+    <li><a href="pressroom/about-scientific-american/">About Scientific American</a></li>
+    <li><a href="/pressroom/" rel="nofollow">Press Room</a></li>
+    <li><a href="/sitemap">Site Map</a></li>
+    <li><a href="/page/terms-of-use/" rel="nofollow">Terms of Use </a></li>
+    <li><a href="/page/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+    <li style="float: right"><a href="/page/use-of-cookies/" rel="nofollow">Use of Cookies</a></li>
+    </ul>
+    <ul class="footerLinks">
+    <li><a href="/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_SAMag_Footer_Self" rel="nofollow" target="_blank">Subscribe</a></li>
+    <li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Renew Your Print Subscription</a></li>
+    <li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Print Subscriber Customer Service</a></li>
+    <li><a href="/page/buy-back-issues/" rel="nofollow" target="_blank">Buy Back Issues</a></li>
+    <li><a href="/page/frequently-asked-questions/">FAQs</a></li>
+    <li style="float: right"><a href="/page/contact-us/" rel="nofollow">Contact Us</a></li>
+    </ul>
+    </div> 
+    </div>
+    </footer>
+    <div class="toasterAd">
+    <div class="magLeft">
+    <img src="/sciam/includes/themes/sciam/images/global/samind-ipad-toaster.png" alt="Scientific American MIND iPad" width="118" height="156" />
+    </div>
+    <div class="magRight">
+    <h3 style="width:130px;">
+    Tap into your MIND
+    </h3>
+    <p>
+    Get Both Print & Tablet Editions for one low price!
+    </p>
+    <p>
+    <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=MND&cds_page_id=137320&cds_response_key=I3M08RA00">Subscribe Now</a><span class="red"> &gt;&gt; </span>
+    </p>
+    <span class="closer">X</span>
+    </div>
+    </div><!--CACHE:HIT-->
+    </div><!-- /.container -->
+    <script type="text/javascript" src="/sciam/includes/themes/sciam/js/theme/theme.js" charset="utf-8"></script>
+</div>
+</body>
+</html>
