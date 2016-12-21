@@ -1,0 +1,1 @@
+Bootstrapper.bindDOMLoaded(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;var _vrq=window._vrq=_vrq||[];_vrq.push(["id",173]);_vrq.push(["automate",false]);_vrq.push(["track",function(){}]);Bootstrapper.insertScript("http://a.visualrevenue.com/vrs.js")},293362,221919);
